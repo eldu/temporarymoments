@@ -1,0 +1,32 @@
+{
+  "name": "temporarymoments",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "webpack-dev-server --hot --inline",
+    "build": "webpack",
+    "deploy": "gh-pages-deploy"
+  },
+  "gh-pages-deploy": {
+    "prep": [
+      "build"
+    ],
+    "noprompt": true
+  },
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-minify-webpack-plugin": "^0.3.1",
+    "babel-preset-env": "^1.7.0",
+    "gh-pages-deploy": "^0.4.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0",
+    "webpack-glsl-loader": "^1.0.1"
+  }
+}
