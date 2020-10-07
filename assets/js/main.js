@@ -563,8 +563,6 @@ var main = (function($) { var _ = {
 
 								// Wait for it to load.
 									$('<img src="' + newSlide.url + '" />').on('load', function() {
-									//window.setTimeout(function() {
-
 										// Set background image.
 											newSlide.$slideImage
 												.css('background-image', 'url(' + newSlide.url + ')');
@@ -580,8 +578,6 @@ var main = (function($) { var _ = {
 											window.setTimeout(function() {
 												_.locked = false;
 											}, 100);
-
-									//}, 1000);
 									});
 
 							}, 100);
@@ -590,7 +586,6 @@ var main = (function($) { var _ = {
 
 					// Otherwise ...
 						else {
-
 							window.setTimeout(function() {
 
 								// Mark as active.
@@ -600,11 +595,8 @@ var main = (function($) { var _ = {
 									window.setTimeout(function() {
 										_.locked = false;
 									}, 100);
-
 							}, 100);
-
 						}
-
 				};
 
 				// No old slide? Switch immediately.
