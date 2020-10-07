@@ -1,11 +1,11 @@
 const path = require('path');
 module.exports = {
-  entry: path.join(__dirname, "src/main"),
+  entry: path.join(__dirname, "src/entry"),
   output: {
     path: path.join(__dirname, 'build'),
     filename: "bundle.js"
   },
-  mode: 'development',
+  mode: 'development', // TODO: 'production'
   module: {
     rules: [
       {
@@ -25,8 +25,4 @@ module.exports = {
     ]
   },
   devtool: 'source-map',
-  devServer: {
-    port: 8000,
-    publicPath: '/build/'
-  },
 }

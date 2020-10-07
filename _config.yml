@@ -1,0 +1,11 @@
+title: Temporary Moments
+author: Ellen Duong and Angela Schwartz
+
+# Serving
+port: 8000
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules

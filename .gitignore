@@ -1,10 +1,13 @@
 # Intellij
 .idea/
 
-###########################
-# Node.gitignore
-###########################
+# Jekyll.gitignore
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
+# Node.gitignore
 # Logs
 logs
 *.log
@@ -89,7 +92,7 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+static/dist
 
 # Gatsby files
 .cache/
