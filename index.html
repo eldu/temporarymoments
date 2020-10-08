@@ -22,11 +22,17 @@ permanent_url: https://drive.google.com/uc?id=
 
 				<!-- Header -->
 					<header id="header">
-						<h1>Temporary Moments</h1>
+						<h1 class="gradient-text">Temporary Moments</h1>
 						<ul class="icons">
-							<li><a href="https://www.instagram.com/temporarymoments/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="https://github.com/eldu/temporarymoments" class="icon brands fa-github"><span class="label">Github</span></a></li>
+							<li><a href="https://www.instagram.com/temporarymoments/" class="icon brands"><i class="fab fa-instagram"></i></a></li>
+							<li><a href="https://github.com/eldu/temporarymoments" class="icon brands"><i class="fab fa-github"></i></a></li>
+							<li><a href="#" class="icon brands"><i class="fas fa-share-alt"></i></a></li>
 						</ul>
+
+<!--					Markdownify -->
+<!--                    https://github.com/jekyll/jekyll/issues/1303#issuecomment-21067548 -->
+						{% capture about %}{% include about.md %}{% endcapture %}
+						{{ about || markdownify }}
 					</header>
 
 				<!-- Thumbnail -->
@@ -44,6 +50,11 @@ permanent_url: https://drive.google.com/uc?id=
 
 				<!-- Footer -->
 					<footer id="footer">
+<!--					Markdownify -->
+<!--                    https://github.com/jekyll/jekyll/issues/1303#issuecomment-21067548 -->
+						{% capture thank_you %}{% include thank_you.md %}{% endcapture %}
+						{{ thank_you || markdownify }}
+
 						<ul class="copyright">
 							<li>Initial Website Template: <a href="http://html5up.net">HTML5 UP</a>.</li>
 						</ul>

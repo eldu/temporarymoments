@@ -1,0 +1,3 @@
+We are interested in expanding this project to include more temporary public art created during this time. We would also appreciate help in giving credit to all the artists.
+
+Thank you!
