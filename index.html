@@ -1,5 +1,6 @@
 ---
 permanent_url: https://drive.google.com/uc?id=
+thumbnail_url: https://drive.google.com/uc?sz=w360&id=
 website_url: https://www.temporarymoments.com/
 
 ---
@@ -68,7 +69,7 @@ website_url: https://www.temporarymoments.com/
 						{% for photo in site.data.photos %}
 						<article>
 							<a class="thumbnail" href="{{ page.permanent_url | append: photo.id }}">
-								<img src="{{ page.permanent_url | append: photo.id }}" width=360>
+								<img src="{{ page.thumbnail_url | append: photo.id }}" width=360>
 							</a>
 							<h2></h2>
 							<p></p>
