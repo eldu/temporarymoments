@@ -1,5 +1,7 @@
 ---
 permanent_url: https://drive.google.com/uc?id=
+website_url: https://www.temporarymoments.com/
+
 ---
 <!doctype html>
 <!--
@@ -13,6 +15,7 @@ permanent_url: https://drive.google.com/uc?id=
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/webshare.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload-0 is-preload-1 is-preload-2 dark-theme">
@@ -26,8 +29,33 @@ permanent_url: https://drive.google.com/uc?id=
 						<ul class="icons">
 							<li><a href="https://www.instagram.com/temporarymoments/" class="icon brands"><i class="fab fa-instagram"></i></a></li>
 							<li><a href="https://github.com/eldu/temporarymoments" class="icon brands"><i class="fab fa-github"></i></a></li>
-							<li><a href="#" class="icon brands"><i class="fas fa-share-alt"></i></a></li>
+							<li><a href="#share-icon" class="icon brands share-button"><i class="fas fa-share-alt"></i></a></li>
 						</ul>
+
+<!--						Share Dialog -->
+						<div class="share-dialog">
+							<div style="margin-bottom: 5px;">
+								<button class="close-button"><i class="fas fa-times"></i></button>
+								<h2 style="text-align: center;">Share Temporary Moments</h2>
+							</div>
+							<div class="targets" align="center">
+								{% for social_media in site.data.webshare-social-media %}
+								<button onclick="popupWindow('{{ social_media.href }}',{{ social_media.width }},{{ social_media.height }})"
+										style="border: none;">
+										<i class="{{ social_media.fa-icon }}"></i>
+								</button>
+								{% endfor %}
+							</div>
+							<div class="link">
+								<input type="text" value="{{ page.website_url }}" id="copy-url" readonly>
+								<div class="tooltip">
+									<button class="copy-link button" onclick="copyText()">
+										<span class="tooltiptext" id="tooltiptext">Copied</span>
+										Copy
+									</button>
+								</div>
+							</div>
+						</div>
 
 <!--					Markdownify -->
 <!--                    https://github.com/jekyll/jekyll/issues/1303#issuecomment-21067548 -->
@@ -67,5 +95,6 @@ permanent_url: https://drive.google.com/uc?id=
 			<script src="assets/js/browser.min.js"></script>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/webshare.js"></script>
 	</body>
 </html>

@@ -1,0 +1,83 @@
+.close-button {
+  float: left;
+  border: none;
+  margin-top: 5px;
+  margin-right: 5px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10px;
+}
+
+.share-dialog {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.share-dialog {
+  display: none;
+  width: 95%;
+  max-width: 500px;
+  box-shadow: 0 8px 16px rgba(0,0,0,.15);
+  z-index: -1;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 4px;
+  background-color: #fff;
+}
+
+.share-dialog.is-open {
+  display: block;
+  z-index: 2;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: #eee;
+}
+
+.pen-url {
+  margin-right: 15px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltiptext {
+  opacity: 0;
+  display: none;
+}
+
+.tooltip .tooltiptext {
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 10px;
+  position: absolute;
+  z-index: 1;
+  bottom: 110%;
+  left: 14%; /* TODO: Fix */
+}
+
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
