@@ -13,12 +13,6 @@ These are temporary moments that have happened. Lives have been affected. Let’
 - Angela Schwartz
   - Photographer, Editor
 
-## Acknowledgements
-- Laisa Barros
-  - Thank you for sending in photos in for murals around Oakland that I still need to add into the project!
-- [Lens Website Template](https://html5up.net/lens)
-  - The website template I used initially when creating this project! Here is their [README](Lens_README.md). And I'm using the license that they provide as well. See [LICENSE.md](LICENSE.md) for more details.
-
 ## Project Status
 Still working on it and not ready for release yet!
 
@@ -49,6 +43,12 @@ Please read our [contributing document](CONTRIBUTING.md) for details on our code
 - [Lens Website Template](https://html5up.net/lens)
 - [How to Use the Web Share API](https://css-tricks.com/how-to-use-the-web-share-api/)
 - [Milky Way Favicon](https://favicon.io/emoji-favicons/milky-way/)
+
+## Acknowledgements
+- [Lens Website Template](https://html5up.net/lens)
+  - The website template I used initially when creating this project! Here is their [README](Lens_README.md). And I'm using the license that they provide as well. See [LICENSE.md](LICENSE.md) for more details.
+- Laisa Barros
+  - Thank you for sending in photos in for murals around Oakland that I still need to add into the project!
 
 ## License
 This project is licensed under the Creative Commons Attribution 3.0 Unported license. See the [license document](LICENSE.md) for details

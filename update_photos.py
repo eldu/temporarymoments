@@ -1,9 +1,15 @@
 """
 Downloads data and files for use in the website
 
+Obstacles
+- There is a usage limit that returns a 403 error so this script can be run a few times every so often. This should be
+fine since we don't update the photos often.
+https://developers.google.com/drive/api/v3/handle-errors
+
 Improvements to make on this script
 - Add query for downloading just some of the files, not all
 - Multithread downloading files?
+- Add option for test files in CLI
 
 Update the photos.json file
 python update_photos.py --credentials_file "C:\\Users\\Ellen\\Credentials\\temporarymoments_client_secret.json"
@@ -24,6 +30,7 @@ import os
 
 TEMPORARYMOMENTS_FOLDER_ID = "1m1SBar05i6ov59CPfz_CsrGA-iwiSzxb"
 SEATTLE_FOLDER_ID = "1ASIRGe59CgDIpztCJGUEtQOkGKNpVKSw"
+TEST_FOLDER_ID = "1vjDZYfEf0pfTu-_qk5zWf6p3kPTvjMpS"
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly']
