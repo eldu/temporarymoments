@@ -48,6 +48,7 @@ Please read our [contributing document](CONTRIBUTING.md) for details on our code
 - [Jekyll](https://jekyllrb.com/)
 - [Lens Website Template](https://html5up.net/lens)
 - [How to Use the Web Share API](https://css-tricks.com/how-to-use-the-web-share-api/)
+- [Milky Way Favicon](https://favicon.io/emoji-favicons/milky-way/)
 
 ## License
 This project is licensed under the Creative Commons Attribution 3.0 Unported license. See the [license document](LICENSE.md) for details
