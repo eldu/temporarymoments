@@ -68,8 +68,8 @@ website_url: https://www.temporarymoments.com/
 					<section id="thumbnails">
 						{% for photo in site.data.photos %}
 						<article>
-							<a class="thumbnail" href="{{ page.permanent_url | append: photo.id }}">
-								<img src="{{ page.thumbnail_url | append: photo.id }}" width=360>
+							<a class="thumbnail" href="photos/{{ photo.id }}.{{ photo.fileExtension }}">
+								<img src="photos/{{ photo.id }}.{{ photo.fileExtension }}" width="360">
 							</a>
 							<h2></h2>
 							<p>{{ photo.description }}</p>
