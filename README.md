@@ -16,11 +16,6 @@ These are temporary moments that have happened. Lives have been affected. Let’
 ## Project Status
 Still working on it and not ready for release yet!
 
-Tweaks Left
-- Captions hover
-- Re arrange photos
-- Descriptions
-
 Maintenance of this project is mostly just more photos and descriptions. There is an Instagram which is probably more 
 easily updated. See [instructions](INSTRUCTIONS.md) for updating this repo and project.
 

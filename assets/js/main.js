@@ -424,6 +424,22 @@ var main = (function($) { var _ = {
 						// Create elements.
 	 						s.$slide = $('<div class="slide"><div class="caption"></div><div class="image"></div></div>');
 
+	 						// Add on click toggle the captions
+	 						s.$slide.on('click', function(event) {
+                let globalCaptionOpacity = $("#globalCaptionOpacity")
+
+                console.log(globalCaptionOpacity.val())
+                if (globalCaptionOpacity.val() === "" || globalCaptionOpacity.val() > 0.0) {
+                  globalCaptionOpacity.val(0.0);
+                } else {
+                  globalCaptionOpacity.val(1.0);
+                }
+
+	 						  _.slides.forEach(function(element) {
+	 						    element.$slideCaption.css("opacity", globalCaptionOpacity.val())
+	 						  })
+	 						});
+
 	 					// Image.
  							s.$slideImage = s.$slide.children('.image');
 
