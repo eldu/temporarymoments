@@ -425,7 +425,7 @@ var main = (function($) { var _ = {
 	 						s.$slide = $('<div class="slide"><div class="caption"></div><div class="image"></div></div>');
 
 	 						// Add on click toggle the captions
-	 						s.$slide.on('click', function(event) {
+	 						s.$slide.on('dblclick', function(event) {
                 let globalCaptionOpacity = $("#globalCaptionOpacity")
 
                 console.log(globalCaptionOpacity.val())

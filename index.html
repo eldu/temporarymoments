@@ -81,7 +81,7 @@ website_url: https://www.temporarymoments.com/
 								<img src="photos/{{ photo.id }}.{{ photo.fileExtension }}" width="360">
 							</a>
 							<h2></h2>
-							<p>{{ photo.description }}</p>
+							<p>{{ photo.description | newline_to_br }}</p>
 						</article>
 						{% endfor %}
 					</section>
