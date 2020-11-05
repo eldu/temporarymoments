@@ -34,12 +34,13 @@ website_url: https://www.temporarymoments.com/
 
 				<!-- Header -->
 					<header id="header">
-						<h1 class="gradient-text">Temporary Moments</h1>
+						<h1 class="gradient-text"><a href="">Temporary Moments</a></h1>
 						<ul class="icons">
-							<li><a href="https://www.instagram.com/temporarymoments/" class="icon brands"><i class="fab fa-instagram"></i></a></li>
-							<li><a href="https://github.com/eldu/temporarymoments" class="icon brands"><i class="fab fa-github"></i></a></li>
-							<li><a href="mailto:thesetemporarymoments@gmail.com" class="icon brands"><i class="fas fa-envelope"></i></a></li>
-							<li><a href="javascript:;" class="icon brands share-button"><i class="fas fa-share-alt"></i></a></li>
+<!--							Maybe put the style into the main css file. Be wary of the button style -->
+							<li><a href="https://www.instagram.com/temporarymoments/" class="icon brands button" style="border-style:none;padding:0;margin:0;"><i class="fab fa-instagram fa-lg"></i></a></li>
+							<li><a href="https://github.com/eldu/temporarymoments" class="icon brands button" style="border-style:none;padding:0;margin:0;"><i class="fab fa-github fa-lg"></i></a></li>
+							<li><a href="mailto:thesetemporarymoments@gmail.com" class="icon brands button" style="border-style:none;padding:0;margin:0;"><i class="fas fa-envelope fa-lg"></i></a></li>
+							<li><button class="icon brands share-button" style="border-style:none;padding:0;margin:0;"><i class="fas fa-share-alt fa-lg"></i></button></li>
 						</ul>
 
 <!--						Share Dialog -->
@@ -80,7 +81,7 @@ website_url: https://www.temporarymoments.com/
 							<a class="thumbnail" href="photos/{{ photo.id }}.{{ photo.fileExtension }}" id="{{ photo.id }}">
 								<img src="photos/{{ photo.id }}.{{ photo.fileExtension }}" width="360">
 							</a>
-							<p>{{ photo.description | newline_to_br }}</p>
+							<p style="max-width:800px;">{{ photo.description | newline_to_br }}</p>
 						</article>
 						{% endfor %}
 					</section>
