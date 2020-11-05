@@ -22,10 +22,10 @@ website_url: https://www.temporarymoments.com/
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 
 		<!-- Favicon -->
-		<link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
-		<link rel="manifest" href="assets/favicon/site.webmanifest">
+		<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+		<link rel="manifest" href="/assets/favicon/site.webmanifest">
 	</head>
 	<body class="is-preload-0 is-preload-1 is-preload-2 dark-theme">
 
@@ -39,7 +39,7 @@ website_url: https://www.temporarymoments.com/
 							<li><a href="https://www.instagram.com/temporarymoments/" class="icon brands"><i class="fab fa-instagram"></i></a></li>
 							<li><a href="https://github.com/eldu/temporarymoments" class="icon brands"><i class="fab fa-github"></i></a></li>
 							<li><a href="mailto:thesetemporarymoments@gmail.com" class="icon brands"><i class="fas fa-envelope"></i></a></li>
-							<li><a href="#share-icon" class="icon brands share-button"><i class="fas fa-share-alt"></i></a></li>
+							<li><a href="javascript:;" class="icon brands share-button"><i class="fas fa-share-alt"></i></a></li>
 						</ul>
 
 <!--						Share Dialog -->
@@ -77,10 +77,9 @@ website_url: https://www.temporarymoments.com/
 					<section id="thumbnails">
 						{% for photo in site.data.photos %}
 						<article>
-							<a class="thumbnail" href="photos/{{ photo.id }}.{{ photo.fileExtension }}">
+							<a class="thumbnail" href="photos/{{ photo.id }}.{{ photo.fileExtension }}" id="{{ photo.id }}">
 								<img src="photos/{{ photo.id }}.{{ photo.fileExtension }}" width="360">
 							</a>
-							<h2></h2>
 							<p>{{ photo.description | newline_to_br }}</p>
 						</article>
 						{% endfor %}
