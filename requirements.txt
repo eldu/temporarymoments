@@ -29,8 +29,6 @@ grpcio==1.32.0
 h5py==2.10.0
 html2text==2020.1.16
 httplib2==0.18.1
-ibm-cloud-sdk-core==1.7.3
-ibm-watson==4.7.1
 idna==2.9
 isodate==0.6.0
 jieba3k==0.35.1

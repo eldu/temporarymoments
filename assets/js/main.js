@@ -177,6 +177,12 @@ var main = (function($) { var _ = {
 	initEvents: function() {
 
 		// Window.
+		  // Load history
+        _.$window.on('popstate', function() {
+          if (history.state) {
+            _.switchTo(history.state.index);
+          }
+        });
 
 			// Remove is-preload-* classes on load.
 				_.$window.on('load', function() {
@@ -425,10 +431,9 @@ var main = (function($) { var _ = {
 	 						s.$slide = $('<div class="slide"><div class="caption"></div><div class="image"></div></div>');
 
 	 						// Add on click toggle the captions
-	 						s.$slide.on('click', function(event) {
+	 						s.$slide.on('dblclick', function(event) {
                 let globalCaptionOpacity = $("#globalCaptionOpacity")
 
-                console.log(globalCaptionOpacity.val())
                 if (globalCaptionOpacity.val() === "" || globalCaptionOpacity.val() > 0.0) {
                   globalCaptionOpacity.val(0.0);
                 } else {
@@ -500,14 +505,22 @@ var main = (function($) { var _ = {
 			_.initViewer();
 			_.initEvents();
 
-		// Show first slide if xsmall isn't active.
-			breakpoints.on('>xsmall', function() {
+      // Use parameters for thumbnails
+      const hash_param = window.location.hash;
+      if (hash_param) {
+        const thumbnail_index = parseInt(hash_param.split('#')[1]);
+        if (!isNaN(thumbnail_index)) {
+          _.switchTo(thumbnail_index);
+        }
+      } else {
+        // Show first slide if xsmall isn't active.
+        breakpoints.on('>xsmall', function() {
 
-				if (_.current === null)
-					_.switchTo(0, true);
+          if (_.current === null)
+            _.switchTo(0, true);
 
-			});
-
+        });
+      }
 	},
 
 	/**
@@ -590,6 +603,12 @@ var main = (function($) { var _ = {
 										// Mark as active.
 											newSlide.$slide.addClass('active');
 
+										// Set state
+										const state = {index: index};
+										const title = window.document.title;
+										const url = window.location.origin + '/#' + index;
+										window.history.pushState(state, title, url);
+
 										// Unlock.
 											window.setTimeout(function() {
 												_.locked = false;
@@ -606,6 +625,12 @@ var main = (function($) { var _ = {
 
 								// Mark as active.
 									newSlide.$slide.addClass('active');
+
+                  // Set state
+                  const state = {index: index};
+                  const title = window.document.title;
+                  const url = window.location.origin + '/#' + index;
+                  window.history.pushState(state, title, url);
 
 								// Unlock.
 									window.setTimeout(function() {

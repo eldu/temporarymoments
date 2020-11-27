@@ -3,7 +3,17 @@ const shareDialog = document.querySelector('.share-dialog');
 const closeButton = document.querySelector('.close-button');
 
 shareButton.addEventListener('click', event => {
-  shareDialog.classList.add('is-open');
+  if (navigator.share) {
+   navigator.share({
+      title: 'Temporary Moments',
+      url: 'https://www.temporarymoments.com/'
+    }).then(() => {
+      console.log('Thanks for sharing!');
+    })
+    .catch(console.error);
+    } else {
+        shareDialog.classList.add('is-open');
+    }
 });
 
 closeButton.addEventListener('click', event => {
