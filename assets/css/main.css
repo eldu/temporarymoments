@@ -1258,7 +1258,7 @@ input, select, textarea {
 				width: 100%;
 				color: rgba(255, 255, 255, 0.6);
 				z-index: 3;
-				backdrop-filter: blur(5px);
+				backdrop-filter: blur(3px);
 			}
 
 				#viewer .slide .caption h2, #viewer .slide .caption h3, #viewer .slide .caption h4, #viewer .slide .caption h5, #viewer .slide .caption h6 {
