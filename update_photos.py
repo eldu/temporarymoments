@@ -12,10 +12,13 @@ Improvements to make on this script
 - Add option for test files in CLI
 
 Update the photos.json file
-python update_photos.py --credentials_file "C:\\Users\\Ellen\\Credentials\\temporarymoments_client_secret.json"
+python update_photos.py --download_metadata
 
-Download Files
-python update_photos.py --credentials_file "C:\\Users\\Ellen\\Credentials\\temporarymoments_client_secret.json" -d
+Download files to the photos directory
+python update_photos.py --download_files
+
+Update the metadata for files (currently, just the description)
+python update_photos.py --upload_metadata
 """
 import argparse
 import pickle
@@ -27,6 +30,7 @@ import json
 import requests
 from apiclient import errors
 import os
+import pprint
 
 TEMPORARYMOMENTS_FOLDER_ID = "1m1SBar05i6ov59CPfz_CsrGA-iwiSzxb"
 SEATTLE_FOLDER_ID = "1ASIRGe59CgDIpztCJGUEtQOkGKNpVKSw"
@@ -35,6 +39,37 @@ TEST_FOLDER_ID = "1vjDZYfEf0pfTu-_qk5zWf6p3kPTvjMpS"
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly']
 
+def update_file(service, file, new_metadata, new_revision):
+    """Update an existing file's metadata and content.
+
+    Args:
+      service: Drive API service instance.
+      file (dict): file to update including id.
+      new_metadata (dict): New metadata for the file.
+      new_revision (bool): Whether or not to create a new revision for this file.
+    Returns:
+      dict: Updated file metadata if successful, None otherwise.
+    """
+    try:
+        update = False
+
+        for key in new_metadata:
+            if key not in file or file[key] != new_metadata[key]:
+                update = True
+                break
+
+        if update:
+            # Send the request to the API.
+            updated_file = service.files().update(
+                fileId=file['id'],
+                body=new_metadata
+            ).execute()
+            return updated_file
+        return None
+    except errors.HttpError as error:
+        print('An error occurred: %s' % error)
+        return None
+
 def retrieve_files(service, param):
     """Retrieve a list of File resources.
 
@@ -42,7 +77,7 @@ def retrieve_files(service, param):
       service: Drive API service instance.
       param (dict): parameters to pass in to getting files
     Returns:
-      List of File resources.
+      list[dict]: List of File resources.
     """
     files = []
     page_token = None
@@ -60,15 +95,7 @@ def retrieve_files(service, param):
             break
     return files
 
-def main():
-    parser = argparse.ArgumentParser(description="Update photos")
-    parser.add_argument('--credentials_file', dest='credentials_file', required=True,
-                        help="path to the credentials file")
-    parser.add_argument('--download_files', '-d', action='store_true', dest='download_files', default=False)
-    args = parser.parse_args()
-    credentials_file = args.credentials_file
-    download_files = args.download_files
-
+def get_service(credentials_file):
     creds = None
     # The file token.pickle stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
@@ -88,6 +115,23 @@ def main():
             pickle.dump(creds, token)
 
     service = build('drive', 'v3', credentials=creds)
+    return service
+
+def main():
+    parser = argparse.ArgumentParser(description="Update photos")
+    parser.add_argument('--credentials_file', dest='credentials_file', default="./credentials.json",
+                        help="path to the credentials file")
+    parser.add_argument('--download_files', '-d', action='store_true', dest='download_files', default=False)
+    parser.add_argument('--download_metadata', action='store_true', dest='download_metadata', default=False)
+    parser.add_argument('--upload_metadata', action='store_true', dest='upload_metadata', default=False)
+    args = parser.parse_args()
+
+    # Validate arguments
+    if args.download_metadata and args.upload_metadata:
+        raise ValueError("Cannot download and upload metadata in the same run")
+
+    # Get service and files
+    service = get_service(args.credentials_file)
 
     param = {
         "q": "'{}' in parents and trashed = false".format(SEATTLE_FOLDER_ID),
@@ -98,18 +142,28 @@ def main():
     # Call the Drive v3 API
     items = retrieve_files(service, param)
 
-    # Using the file we already have
-    # items = None
-    # with open('_data/photos.json', 'r', encoding='utf-8') as f:
-    #     items = json.load(f)
-
     if not items:
         print('No files found.')
     else:
-        with open('_data/photos.json', 'w', encoding='utf-8') as f:
-            json.dump(items, f, ensure_ascii=False, indent=4)
+        if args.download_metadata:
+            with open('_data/photos.json', 'w', encoding='utf-8') as f:
+                json.dump(items, f, ensure_ascii=False, indent=4)
 
-        if download_files:
+        if args.upload_metadata:
+            item_id_to_item = {i['id']: i for i in items}
+
+            local_items = []
+            with open('_data/photos.json', 'r', encoding='utf=8') as f:
+                local_items = json.load(f)
+
+            for local_item in local_items:
+                new_metadata = {
+                    "description": local_item.get("description")
+                }
+                file_id = local_item["id"]
+                update_file(service, item_id_to_item[file_id], new_metadata, True)
+
+        if args.download_files:
             for index, item in enumerate(items[:1]):
                 url = item['webContentLink']
                 r = requests.get(url)
