@@ -16,17 +16,16 @@ These are temporary moments that have happened. Lives have been affected. Let’
 ## Project Status
 Still working on it and not ready for release yet!
 
-Maintenance of this project is mostly just more photos and descriptions. There is an Instagram which is probably more 
-easily updated. See [instructions](INSTRUCTIONS.md) for updating this repo and project.
+Maintenance of this project will primarily consist of adding photos and descriptions. See [instructions](INSTRUCTIONS.md) for updating this repo and project.
 
 See the next section on [contributing](#Contributing) if interested in contributing to this project.
 
 ### Future Ideas
 - Parallax scrolling to advance the slideshow with text on the side
 - Map with timestamps of where/when these photos were taken. See Google Maps API.
+- Expansion to photographing other events
 
 ### Improvements to the codebase
-  - Cull the [requirements](requirements.txt).
   - Use Github Actions to run getting photos
 
 ## Contributing
@@ -49,9 +48,11 @@ Please read our [contributing document](CONTRIBUTING.md) for details on our code
 
 ## Acknowledgements
 - [Lens Website Template](https://html5up.net/lens)
-  - The website template I used initially when creating this project! Here is their [README](Lens_README.md). And I'm using the license that they provide as well. See [LICENSE.md](LICENSE.md) for more details.
-- Laisa Barros
-  - Thank you for sending in photos in for murals around Oakland that I still need to add into the project!
+  - The website template used initially when creating this project. Here is their [README](Lens_README.md). And I'm using the license that they provide as well. See [LICENSE.md](LICENSE.md) for more details.
 
 ## License
-This project is licensed under the Creative Commons Attribution 3.0 Unported license. See the [license document](LICENSE.md) for details
+![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+
+Photos from this project are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/)
+
+This repository is licensed under the Creative Commons Attribution 3.0 Unported license. See the [license document](LICENSE.md) for details.
