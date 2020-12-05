@@ -23,6 +23,19 @@ description: Public art and their impact made throughout the COVID-19 pandemic a
 		<link rel="stylesheet" type="text/css" href="assets/css/masonry.css" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+		<link rel="manifest" href="/assets/favicon/site.webmanifest">
+
+		<!-- Meta Tags -->
+		<meta property="og:url"           content="{{ page.website_url }}" />
+		<meta property="og:type"          content="website" />
+		<meta property="og:title"         content="{{ page.title }}" />
+		<meta property="og:description"   content="{{ page.description }}" />
+		<meta property="og:image"         content="{{ page.website_url }}/photos/{{ site.data.photos[0].id }}.{{ site.data.photos[0].fileExtension }}" />
 	</head>
 	<body class="landing is-preload">
 
