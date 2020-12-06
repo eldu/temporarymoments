@@ -1,29 +1,31 @@
 /*
-	Lens by HTML5 UP
+	Spectral by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Main */
+/* Banner */
 
-	#main {
-		opacity: 1 !important;
-		right: 0 !important;
+	body.is-preload #banner h2 {
+		-moz-transform: none;
+		-webkit-transform: none;
+		-ms-transform: none;
+		transform: none;
+		opacity: 1;
 	}
 
-	body:before {
-		content: 'Javascript is disabled :(';
-		display: block;
-		position: absolute;
-		top: 50%;
-		width: calc(100% - 22.5em * 0.333333333);
-		height: 4em;
-		margin-top: -2em;
-		color: #282828;
-		cursor: default;
-		font-size: 3em;
-		line-height: 4em;
-		text-align: center;
-		white-space: nowrap;
-		left: 0;
+		body.is-preload #banner h2:before, body.is-preload #banner h2:after {
+			width: 100%;
+		}
+
+	body.is-preload #banner .more {
+		-moz-transform: none;
+		-webkit-transform: none;
+		-ms-transform: none;
+		transform: none;
+		opacity: 1;
+	}
+
+	body.is-preload #banner:after {
+		opacity: 0;
 	}
