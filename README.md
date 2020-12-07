@@ -45,6 +45,7 @@ Please read our [contributing document](CONTRIBUTING.md) for details on our code
 - [Lens Website Template](https://html5up.net/lens)
 - [How to Use the Web Share API](https://css-tricks.com/how-to-use-the-web-share-api/)
 - [Milky Way Favicon](https://favicon.io/emoji-favicons/milky-way/)
+- [Setting up webpack for jekyll](https://www.mnishiguchi.com/2020/05/04/setting-up-webpack-for-jekyll/)
 
 ## Acknowledgements
 - [Lens Website Template](https://html5up.net/lens)
