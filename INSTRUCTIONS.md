@@ -14,10 +14,8 @@ Basically, I run a script that queries Google Drive for the photos. Then it save
 
 1. Add photos to the Google Drive folder for temporary moments
 1. Run `python update_photos.py` with a credentials file. It creates a `photos.json` file.
-1. Build
-    - `npm run build` or `bundle exec jekyll build`
-1. Test locally
-    - `npm start` or `bundle exec jekyll serve`
+1. Build and test locally
+    - `npm run develop`
 1. Push to Master
 1. Deploy
     - `npm run deploy`

@@ -18,98 +18,184 @@ description: Public art and their impact made throughout the COVID-19 pandemic a
 		<title>{{ page.title }}</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="dist/photoswipe.css">
+		<link rel="stylesheet" href="dist/default-skin/default-skin.css">
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="landing is-preload">
 
 		<!-- Page Wrapper -->
-			<div id="page-wrapper">
+		<div id="page-wrapper">
+		<!-- Header -->
+			<header id="header" class="alt">
+				<h1><a href="index.html">{{ page.title }}</a></h1>
+				<nav id="nav">
+					<ul>
+						<li class="special">
+							<a href="#menu" class="menuToggle"><span>Menu</span></a>
+							<div id="menu">
+								<ul>
+									<li><a href="index.html">Home</a></li>
+									<li><a href="generic.html">Generic</a></li>
+									<li><a href="elements.html">Elements</a></li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</nav>
+			</header>
 
-				<!-- Header -->
-					<header id="header" class="alt">
-						<h1><a href="index.html">{{ page.title }}</a></h1>
-						<nav id="nav">
-							<ul>
-								<li class="special">
-									<a href="#menu" class="menuToggle"><span>Menu</span></a>
-									<div id="menu">
-										<ul>
-											<li><a href="index.html">Home</a></li>
-											<li><a href="generic.html">Generic</a></li>
-											<li><a href="elements.html">Elements</a></li>
-										</ul>
-									</div>
-								</li>
-							</ul>
-						</nav>
+		<!-- Banner -->
+			<section id="banner">
+				<div class="inner">
+					<h2>{{ page.title }}</h2>
+					<p>{{ page.description }}</p>
+				</div>
+				<a href="#one" class="more scrolly">Learn More</a>
+			</section>
+
+		<!-- One -->
+			<section id="one" class="wrapper style1 special">
+				<div class="inner">
+					<header class="major">
+						{% capture introduction %}{% include introduction.md %}{% endcapture %}
+						<p>{{ introduction || markdownify }}</p>
 					</header>
-
-				<!-- Banner -->
-					<section id="banner">
-						<div class="inner">
-							<h2>{{ page.title }}</h2>
-							<p>{{ page.description }}</p>
-						</div>
-						<a href="#one" class="more scrolly">Learn More</a>
-					</section>
-
-				<!-- One -->
-					<section id="one" class="wrapper style1 special">
-						<div class="inner">
-							<header class="major">
-								{% capture introduction %}{% include introduction.md %}{% endcapture %}
-								<p>{{ introduction || markdownify }}</p>
-							</header>
-							<ul class="icons major">
+					<ul class="icons major">
 <!--								<li><span class="icon fa-gem major style1"><span class="label">Lorem</span></span></li>-->
 <!--								<li><span class="icon fa-heart major style2"><span class="label">Ipsum</span></span></li>-->
 <!--								<li><span class="icon solid fa-code major style3"><span class="label">Dolor</span></span></li>-->
-							</ul>
+					</ul>
+				</div>
+			</section>
+
+		<!-- Two -->
+<!--			<section id="two" class="wrapper alt style2 gallery">-->
+<!--				{% for photo in site.data.photos %}-->
+<!--				<section class="spotlight">-->
+<!--					<div class="image"><img src="photos/{{ photo.id }}.{{ photo.fileExtension }}" data-index-number="{{ forloop.index0 }}" /></div><div class="content">-->
+<!--					<p>{{ photo.description | newline_to_br }}</p>-->
+<!--				</div>-->
+<!--				</section>-->
+<!--				{% endfor %}-->
+<!--			</section>-->
+
+			<section id="thumbs" class="wrapper alt style2">
+				{% for photo in site.data.photos %}
+				<section class="spotlight">
+					<div class="image">
+<!--						<a href="images/photos_fullsize/{{ photo.id }}.{{ photo.fileExtension }}">-->
+							<img src="images/photos_thumbnail/{{ photo.id }}.{{ photo.fileExtension }}"
+								 data-index-number="{{ forloop.index0 }}"
+								 data-photo-fullsize="images/photos_fullsize/{{ photo.id }}.{{ photo.fileExtension }}"
+							/>
+<!--						</a>-->
+					</div>
+					<div class="content"><p>{{ photo.description | newline_to_br }}</p></div>
+				</section>
+				{% endfor %}
+			</section>
+
+		<!-- CTA -->
+			<section id="cta" class="wrapper style4">
+				<div class="inner">
+					<header>
+						<h2>Arcue ut vel commodo</h2>
+						<p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
+					</header>
+					<ul class="actions stacked">
+						<li><a href="#" class="button fit primary">Activate</a></li>
+						<li><a href="#" class="button fit">Learn More</a></li>
+					</ul>
+				</div>
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="https://www.instagram.com/temporarymoments/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="https://github.com/eldu/temporarymoments" class="icon brands fa-github"><span class="label">Github</span></a></li>
+					<li><a href="mailto:thesetemporarymoments@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>© Ellen Duong and Angela Schwartz</li>
+					<!-- Creative Commons License -->
+					<li><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</li>
+					<li>Website Design: <a href="http://html5up.net">HTML5 UP</a> and edited by Ellen Duong</li>
+				</ul>
+			</footer>
+		</div> <!-- End of Page Wrapper -->
+
+		<!-- PhotoSwipe -->
+		<!-- Root element of PhotoSwipe. Must have class pswp. -->
+		<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+			<!-- Background of PhotoSwipe.
+                 It's a separate element as animating opacity is faster than rgba(). -->
+			<div class="pswp__bg"></div>
+
+			<!-- Slides wrapper with overflow:hidden. -->
+			<div class="pswp__scroll-wrap">
+
+				<!-- Container that holds slides.
+                    PhotoSwipe keeps only 3 of them in the DOM to save memory.
+                    Don't modify these 3 pswp__item elements, data is added later on. -->
+				<div class="pswp__container">
+					<div class="pswp__item"></div>
+					<div class="pswp__item"></div>
+					<div class="pswp__item"></div>
+				</div>
+
+				<!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+				<div class="pswp__ui pswp__ui--hidden">
+
+					<div class="pswp__top-bar">
+
+						<!--  Controls are self-explanatory. Order can be changed. -->
+
+						<div class="pswp__counter"></div>
+
+						<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+						<button class="pswp__button pswp__button--fs" title="Toggle Fullscreen"></button>
+
+						<button class="pswp__button pswp__button--zoom" title="Zoom In/Out"></button>
+
+						<button class="pswp__button pswp__button--caption" title="Show/Hide Caption"
+								style="background-image:none;text-align:center;">
+							<!--  fas = show caption -->
+							<!--  far = hide caption -->
+							<i class="fas fa-closed-captioning"></i>
+						</button>
+
+						<!-- Preloader demo https://codepen.io/dimsemenov/pen/yyBWoR -->
+						<!-- element will get class pswp__preloader--active when preloader is running -->
+						<div class="pswp__preloader">
+							<div class="pswp__preloader__icn">
+								<div class="pswp__preloader__cut">
+									<div class="pswp__preloader__donut"></div>
+								</div>
+							</div>
 						</div>
-					</section>
+					</div>
 
-				<!-- Two -->
-					<section id="two" class="wrapper alt style2">
-						{% for photo in site.data.photos %}
-						<section class="spotlight">
-							<div class="image"><img src="photos/{{ photo.id }}.{{ photo.fileExtension }}" alt="" /></div><div class="content">
-							<p>{{ photo.description | newline_to_br }}</p>
-						</div>
-						</section>
-						{% endfor %}
-					</section>
+					<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+						<div class="pswp__share-tooltip"></div>
+					</div>
 
-				<!-- CTA -->
-					<section id="cta" class="wrapper style4">
-						<div class="inner">
-							<header>
-								<h2>Arcue ut vel commodo</h2>
-								<p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
-							</header>
-							<ul class="actions stacked">
-								<li><a href="#" class="button fit primary">Activate</a></li>
-								<li><a href="#" class="button fit">Learn More</a></li>
-							</ul>
-						</div>
-					</section>
+					<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+					</button>
 
-				<!-- Footer -->
-					<footer id="footer">
-						<ul class="icons">
-							<li><a href="https://www.instagram.com/temporarymoments/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="https://github.com/eldu/temporarymoments" class="icon brands fa-github"><span class="label">Github</span></a></li>
-							<li><a href="mailto:thesetemporarymoments@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
-						</ul>
-						<ul class="copyright">
-							<li>© Ellen Duong and Angela Schwartz</li>
-							<!-- Creative Commons License -->
-							<li><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</li>
-							<li>Website Design: <a href="http://html5up.net">HTML5 UP</a> and edited by Ellen Duong</li>
-						</ul>
-					</footer>
+					<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+					</button>
 
+					<div class="pswp__caption pswp__caption__real">
+						<div class="pswp__caption__center"></div>
+					</div>
+				</div>
 			</div>
+		</div>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
@@ -117,6 +203,8 @@ description: Public art and their impact made throughout the COVID-19 pandemic a
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
 			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="dist/photoswipe.min.js"></script>
+			<script src="dist/photoswipe-ui-default.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script type="text/javascript" src="dist/bundle.js"></script>
