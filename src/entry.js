@@ -35,6 +35,6 @@ var options = {
 
   $('.pswp__button--caption').click(function() {
     $(this).find('i').toggleClass('fas far');
-    $(".pswp__caption__real").toggleClass('close');
+    $(".pswp__caption").toggleClass('pswp__caption__hide');
   });
 })(jQuery);
