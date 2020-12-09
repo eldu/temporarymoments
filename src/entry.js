@@ -1,5 +1,29 @@
 import { photos } from "./photos.js"
+import Masonry from 'masonry-layout';
+import ImagesLoaded from 'imagesloaded';
 
+/*
+  MASONRY
+*/
+var grid = document.querySelector('.grid');
+
+var msnry = new Masonry( grid, {
+  itemSelector: 'none', // select none at first
+  columnWidth: '.grid__col-sizer',
+  percentPosition: true,
+  transitionDuration: 0,
+});
+
+var imagesLoaded = new ImagesLoaded( grid, function(){
+  grid.classList.remove('are-images-unloaded');
+  msnry.options.itemSelector = '.grid__item';
+  var items = grid.querySelectorAll('.grid__item');
+  msnry.appended( items );
+});
+
+/*
+  PHOTOSWIPE
+*/
 var pswpElement = document.querySelectorAll('.pswp')[0];
 
 // build items array

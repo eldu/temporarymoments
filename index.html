@@ -20,6 +20,7 @@ description: Public art and their impact made throughout the COVID-19 pandemic a
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="dist/photoswipe.css">
 		<link rel="stylesheet" href="dist/default-skin/default-skin.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/infinite-scroll-masonry.css" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
@@ -70,30 +71,20 @@ description: Public art and their impact made throughout the COVID-19 pandemic a
 				</div>
 			</section>
 
-		<!-- Two -->
-<!--			<section id="two" class="wrapper alt style2 gallery">-->
-<!--				{% for photo in site.data.photos %}-->
-<!--				<section class="spotlight">-->
-<!--					<div class="image"><img src="photos/{{ photo.id }}.{{ photo.fileExtension }}" data-index-number="{{ forloop.index0 }}" /></div><div class="content">-->
-<!--					<p>{{ photo.description | newline_to_br }}</p>-->
-<!--				</div>-->
-<!--				</section>-->
-<!--				{% endfor %}-->
-<!--			</section>-->
-
-			<section id="thumbs" class="wrapper alt style2">
+			<section id="thumbs" class="wrapper alt style2 grid are-images-unloaded">
+<!--			<section id="thumbs" class="grid are-images-unloaded">-->
+				<div class="grid__col-sizer"></div>
 				{% for photo in site.data.photos %}
-				<section class="spotlight">
-					<div class="image">
-<!--						<a href="images/photos_fullsize/{{ photo.id }}.{{ photo.fileExtension }}">-->
-							<img src="images/photos_thumbnail/{{ photo.id }}.{{ photo.fileExtension }}"
-								 data-index-number="{{ forloop.index0 }}"
-								 data-photo-fullsize="images/photos_fullsize/{{ photo.id }}.{{ photo.fileExtension }}"
-							/>
-<!--						</a>-->
-					</div>
-					<div class="content"><p>{{ photo.description | newline_to_br }}</p></div>
-				</section>
+				<div class="grid__item">
+<!--					<div class="image">-->
+						<img src="images/photos_thumbnail/{{ photo.id }}.{{ photo.fileExtension }}"
+							 data-index-number="{{ forloop.index0 }}"
+							 data-photo-fullsize="images/photos_fullsize/{{ photo.id }}.{{ photo.fileExtension }}"
+						/>
+<!--					</div>-->
+<!--					TODO: Add back in caption -->
+<!--					<div class="content" style="display:none;"><p>{{ photo.description | newline_to_br }}</p></div>-->
+				</div>
 				{% endfor %}
 			</section>
 
