@@ -40,16 +40,16 @@ for (var i = 0; i < photos.length; i++) {
 
 // define options (if needed)
 var options = {
-    // optionName: 'option value'
-    // for example:
-    index: 0 // start at first slide
+    index: 0, // start at first slide
+    closeOnScroll: false,
+    closeOnVerticalDrag: false
 };
 
 // Initializes and opens PhotoSwipe on thumbnail click
 (function($) {
   var	$window = $(window);
   $window.on('load', function() {
-    $('#thumbs img').click(function() {
+    $('#gallery .grid__item').click(function() {
       var index = $(this).data("indexNumber");
       options.index = index;
       var gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, items, options);

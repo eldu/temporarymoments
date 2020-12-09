@@ -13,14 +13,14 @@ description: Public art and their impact made throughout the COVID-19 pandemic a
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
+<html id="top">
 	<head>
 		<title>{{ page.title }}</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="dist/photoswipe.css">
 		<link rel="stylesheet" href="dist/default-skin/default-skin.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/infinite-scroll-masonry.css" />
+		<link rel="stylesheet" type="text/css" href="assets/css/masonry.css" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
@@ -37,9 +37,10 @@ description: Public art and their impact made throughout the COVID-19 pandemic a
 							<a href="#menu" class="menuToggle"><span>Menu</span></a>
 							<div id="menu">
 								<ul>
-									<li><a href="index.html">Home</a></li>
-									<li><a href="generic.html">Generic</a></li>
-									<li><a href="elements.html">Elements</a></li>
+									<li><a href="#top" class="scrolly">Home</a></li>
+									<li><a href="#introduction" class="scrolly">Introduction</a></li>
+									<li><a href="#gallery" class="scrolly">Moments</a></li>
+									<li><a href="#footer" class="scrolly">Thank you</a></li>
 								</ul>
 							</div>
 						</li>
@@ -53,57 +54,50 @@ description: Public art and their impact made throughout the COVID-19 pandemic a
 					<h2>{{ page.title }}</h2>
 					<p>{{ page.description }}</p>
 				</div>
-				<a href="#one" class="more scrolly">Learn More</a>
+				<a href="#introduction" class="more scrolly">Learn More</a>
 			</section>
 
 		<!-- One -->
-			<section id="one" class="wrapper style1 special">
+			<section id="introduction" class="wrapper style1 special">
 				<div class="inner">
 					<header class="major">
 						{% capture introduction %}{% include introduction.md %}{% endcapture %}
 						<p>{{ introduction || markdownify }}</p>
 					</header>
-					<ul class="icons major">
-<!--								<li><span class="icon fa-gem major style1"><span class="label">Lorem</span></span></li>-->
-<!--								<li><span class="icon fa-heart major style2"><span class="label">Ipsum</span></span></li>-->
-<!--								<li><span class="icon solid fa-code major style3"><span class="label">Dolor</span></span></li>-->
-					</ul>
 				</div>
 			</section>
 
-			<section id="thumbs" class="wrapper alt style2 grid are-images-unloaded">
-<!--			<section id="thumbs" class="grid are-images-unloaded">-->
-				<div class="grid__col-sizer"></div>
-				{% for photo in site.data.photos %}
-				<div class="grid__item">
-<!--					<div class="image">-->
+			<section class="wrapper style3">
+				<div id="gallery" class="grid are-images-unloaded cs-style-1">
+					<div class="grid__col-sizer"></div>
+					{% for photo in site.data.photos %}
+					<figure class="grid__item" data-index-number="{{ forloop.index0 }}">
 						<img src="images/photos_thumbnail/{{ photo.id }}.{{ photo.fileExtension }}"
+							 class="image"
 							 data-index-number="{{ forloop.index0 }}"
-							 data-photo-fullsize="images/photos_fullsize/{{ photo.id }}.{{ photo.fileExtension }}"
 						/>
-<!--					</div>-->
-<!--					TODO: Add back in caption -->
-<!--					<div class="content" style="display:none;"><p>{{ photo.description | newline_to_br }}</p></div>-->
+						<figcaption>{{ photo.description | newline_to_br }}</figcaption>
+					</figure>
+					{% endfor %}
 				</div>
-				{% endfor %}
 			</section>
 
 		<!-- CTA -->
 			<section id="cta" class="wrapper style4">
 				<div class="inner">
 					<header>
-						<h2>Arcue ut vel commodo</h2>
-						<p>Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla.</p>
+						<h2>Thank you</h2>
+						<!-- Markdownify -->
+						<!-- https://github.com/jekyll/jekyll/issues/1303#issuecomment-21067548 -->
+						{% capture thank_you %}{% include thank_you.md %}{% endcapture %}
+						<p>{{ thank_you || markdownify }}</p>
 					</header>
-					<ul class="actions stacked">
-						<li><a href="#" class="button fit primary">Activate</a></li>
-						<li><a href="#" class="button fit">Learn More</a></li>
-					</ul>
 				</div>
 			</section>
 
 		<!-- Footer -->
 			<footer id="footer">
+			<!-- Social Media -->
 				<ul class="icons">
 					<li><a href="https://www.instagram.com/temporarymoments/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 					<li><a href="https://github.com/eldu/temporarymoments" class="icon brands fa-github"><span class="label">Github</span></a></li>

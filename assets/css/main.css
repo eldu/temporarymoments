@@ -7,6 +7,29 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/*
+  Color Palette
+  TODO: Clean this up
+*/
+:root {
+  --tyrian-purple: #5f0f40ff; /* Tyrian Purple */
+  --ruby-red: #9a031eff; /* Ruby Red */
+  --dark-orange: #fb8b24ff; /* Dark Orange */
+  --spanish-orange: #e36414ff; /* Spanish Orange */
+  --midnight-green-eagle-green: #0f4c5cff; /* Midnight Green Eagle Green */
+
+  --palette-bkgd-figcaption: #a95aa1;
+  --palette-bkgd-figcaption-dark: var(--tyrian-purple);
+
+  --palette-bkgd-light: #21b2a6ff; /* Light Sea Green */
+  --palette-bkgd-dark: #475841ff; /* Rifle Green */
+  --palette-dark: #3f403fff; /* Onyx */
+  --palette-darkest: #0E070E; /* Dark Purple */
+  --palette-bkgd: lightgrey;
+  --palette-lightest: #f9dec9ff; /* Unbleached Silk */
+  --palette-medium: #e9afa3ff; /* Melon */
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2090,9 +2113,65 @@ input, select, textarea {
 		}
 
 /* Image */
+  /* Figcaption */
+  #gallery figcaption {
+  	position: absolute;
+  	top: 0;
+  	left: 0;
+  	padding: 20px;
+  	background: var(--palette-bkgd-figcaption);
+  	color: lightgrey;
+    overflow: auto;
+    cursor: zoom-in;
+  }
+
+  #gallery figcaption a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-bottom: none;
+  }
+
+  #gallery figcaption a:hover {
+    text-decoration: underline;
+  }
+
+  #gallery figcaption a:visited {
+    color: var(--palette-bkgd-figcaption-dark);
+  }
+
+  .cs-style-1 figcaption {
+  	height: 100%;
+  	width: 100%;
+    padding: 7px;
+  	opacity: 0;
+  	text-align: center;
+  	backface-visibility: hidden;
+  	transition: transform 0.3s, opacity 0.3s;
+  }
+
+  .no-touch .cs-style-1 figure:hover figcaption,
+  .cs-style-1 figure:hover figcaption {
+  	opacity: 0.95;
+  }
+
+  #gallery figcaption::-webkit-scrollbar-track
+  {
+    border-radius: 10px;
+  }
+
+  #gallery figcaption::-webkit-scrollbar
+  {
+    width: 7px;
+  }
+
+  #gallery figcaption::-webkit-scrollbar-thumb
+  {
+    border-radius: 10px;
+    background-color: var(--palette-bkgd-figcaption-dark);
+  }
 
 	.image {
-		border-radius: 3px;
 		border: 0;
 		display: inline-block;
 		position: relative;
@@ -2937,7 +3016,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: var(--palette-bkgd);
 			color: #d3d4e4;
 		}
 
@@ -3308,7 +3387,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: var(--palette-medium);
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
