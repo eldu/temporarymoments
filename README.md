@@ -40,16 +40,15 @@ Please read our [contributing document](CONTRIBUTING.md) for details on our code
 ## Resources
 - [Google Drive API](https://developers.google.com/drive)
 - [How to add a gradient overlay to text with CSS](https://fossheim.io/writing/posts/css-text-gradient/)
-- [Using Webpack and React with Jekyll](https://medium.com/@allizadrozny/using-webpack-and-react-with-jekyll-cfe137f8a2cc)
 - [Jekyll](https://jekyllrb.com/)
-- [Lens Website Template](https://html5up.net/lens)
+- [Spectral Website Template](https://html5up.net/spectral)
 - [How to Use the Web Share API](https://css-tricks.com/how-to-use-the-web-share-api/)
 - [Milky Way Favicon](https://favicon.io/emoji-favicons/milky-way/)
 - [Setting up webpack for jekyll](https://www.mnishiguchi.com/2020/05/04/setting-up-webpack-for-jekyll/)
 
 ## Acknowledgements
-- [Lens Website Template](https://html5up.net/lens)
-  - The website template used initially when creating this project. Here is their [README](Lens_README.md). And I'm using the license that they provide as well. See [LICENSE.md](LICENSE.md) for more details.
+- [Spectral Website Template](https://html5up.net/spectral)
+  - The website template used initially when creating this project. Here is their [README](Spectral_README.md). And I'm using the license that they provide as well. See [LICENSE.md](LICENSE.md) for more details.
 
 ## License
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
