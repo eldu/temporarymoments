@@ -73,7 +73,6 @@ description: Public art and their impact made throughout the COVID-19 pandemic a
 					{% for photo in site.data.photos %}
 					<figure class="grid__item" data-index-number="{{ forloop.index0 }}">
 						<img src="images/photos_thumbnail/{{ photo.id }}.{{ photo.fileExtension }}"
-							 class="image"
 							 data-index-number="{{ forloop.index0 }}"
 						/>
 						<figcaption>{{ photo.description | newline_to_br }}</figcaption>

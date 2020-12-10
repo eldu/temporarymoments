@@ -1835,6 +1835,17 @@ input, select, textarea {
 
 	}
 
+/*
+  .cd-auto-hide-navbar {
+    transition: transform .5s;
+  }
+
+  .cd-auto-hide-navbar.is-hidden {
+    display: none;
+    opacity: 0;
+  }
+*/
+
 /* Form */
 
 	form {
@@ -2113,64 +2124,6 @@ input, select, textarea {
 		}
 
 /* Image */
-  /* Figcaption */
-  #gallery figcaption {
-  	position: absolute;
-  	top: 0;
-  	left: 0;
-  	padding: 20px;
-  	background: var(--palette-bkgd-figcaption);
-  	color: lightgrey;
-    overflow: auto;
-    cursor: zoom-in;
-  }
-
-  #gallery figcaption a {
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-    border-bottom: none;
-  }
-
-  #gallery figcaption a:hover {
-    text-decoration: underline;
-  }
-
-  #gallery figcaption a:visited {
-    color: var(--palette-bkgd-figcaption-dark);
-  }
-
-  .cs-style-1 figcaption {
-  	height: 100%;
-  	width: 100%;
-    padding: 7px;
-  	opacity: 0;
-  	text-align: center;
-  	backface-visibility: hidden;
-  	transition: transform 0.3s, opacity 0.3s;
-  }
-
-  .no-touch .cs-style-1 figure:hover figcaption,
-  .cs-style-1 figure:hover figcaption {
-  	opacity: 0.95;
-  }
-
-  #gallery figcaption::-webkit-scrollbar-track
-  {
-    border-radius: 10px;
-  }
-
-  #gallery figcaption::-webkit-scrollbar
-  {
-    width: 7px;
-  }
-
-  #gallery figcaption::-webkit-scrollbar-thumb
-  {
-    border-radius: 10px;
-    background-color: var(--palette-bkgd-figcaption-dark);
-  }
-
 	.image {
 		border: 0;
 		display: inline-block;
@@ -3166,12 +3119,12 @@ input, select, textarea {
 					background-color: rgba(255, 255, 255, 0.2);
 				}
 
-			@media screen and (max-width: 736px) {
-
-				.wrapper.style3 .features li {
-					border-top-color: rgba(0, 0, 0, 0.125);
-				}
-
+			@media screen and (max-width: 768px) {
+			  .wrapper.style3 {
+			    background-color: black;
+          padding-right: 0;
+          padding-left: 0;
+			  }
 			}
 
 		.wrapper.style4 {
