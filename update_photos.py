@@ -39,6 +39,8 @@ TEST_FOLDER_ID = "1vjDZYfEf0pfTu-_qk5zWf6p3kPTvjMpS"
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly']
 
+FILE_FIELDS = "id,name,description,fileExtension,imageMediaMetadata"
+
 def update_file(service, file, new_metadata, new_revision):
     """Update an existing file's metadata and content.
 
@@ -135,7 +137,7 @@ def main():
 
     param = {
         "q": "'{}' in parents and trashed = false".format(SEATTLE_FOLDER_ID),
-        "fields": "nextPageToken,files",
+        "fields": "nextPageToken,files({0})".format(FILE_FIELDS),
         "orderBy": "name"
     }
 
@@ -146,8 +148,13 @@ def main():
         print('No files found.')
     else:
         if args.download_metadata:
+            # Saves photo data as json to be read by Jekyll
             with open('_data/photos.json', 'w', encoding='utf-8') as f:
                 json.dump(items, f, ensure_ascii=False, indent=4)
+
+            # Saves photo data as js variable to be read by js
+            with open('src/photos.js', 'w', encoding='utf-8') as f:
+                f.write("var photos = {0}; export {{ photos }};".format(json.dumps(items, ensure_ascii=False, indent=2)))
 
         if args.upload_metadata:
             item_id_to_item = {i['id']: i for i in items}
@@ -171,7 +178,7 @@ def main():
                 r.raise_for_status()
 
                 if r.status_code == 200:
-                    dest = "photos/{id}.{fileExtension}".format(**item)
+                    dest = "images/photos_fullsize/{id}.{fileExtension}".format(**item)
                     with open(dest, 'wb') as f:
                         f.write(r.content)
                         print("{0}/{1} Downloaded {2} to {3}".format(index + 1, len(items), item['name'], dest))
