@@ -3,7 +3,8 @@ permanent_url: https://drive.google.com/u/1/uc?id=
 thumbnail_url: https://drive.google.com/u/1/uc?sz=w360&id=
 website_url: https://www.temporarymoments.com/
 title: Temporary Moments
-description: Public art and their impact made throughout the COVID-19 pandemic and racial justice protests in Seattle 2020.
+description: Public art and their impact made throughout the COVID-19 pandemic and racial justice protests in Seattle 2020
+image: https://www.temporarymoments.com/images/banner.jpg
 
 ---
 
@@ -18,6 +19,27 @@ description: Public art and their impact made throughout the COVID-19 pandemic a
 		<title>{{ page.title }}</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+		<!-- Search Engine -->
+		<meta name="description" content="{{ page.description }}">
+		<meta name="image" content="{{ page.image }}">
+		<!-- Schema.org for Google -->
+		<meta itemprop="name" content="{{ page.title }}">
+		<meta itemprop="description" content="{{ page.description }}">
+		<meta itemprop="image" content="{{ page.image }}">
+		<!-- Twitter -->
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="{{ page.title }}">
+		<meta name="twitter:description" content="{{ page.description }}">
+		<meta name="twitter:image:src" content="{{ page.website_url }}">
+		<!-- Open Graph general (Facebook, Pinterest & Google+) -->
+		<meta name="og:title" content="{{ page.title }}">
+		<meta name="og:description" content="{{ page.description }}">
+		<meta name="og:image" content="{{ page.image }}">
+		<meta name="og:url" content="{{ page.website_url }}">
+		<meta name="og:site_name" content="{{ page.title }}">
+		<meta name="og:type" content="website">
+
 		<link rel="stylesheet" href="dist/photoswipe.css">
 		<link rel="stylesheet" href="dist/default-skin/default-skin.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/masonry.css" />
@@ -29,13 +51,6 @@ description: Public art and their impact made throughout the COVID-19 pandemic a
 		<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
 		<link rel="manifest" href="/assets/favicon/site.webmanifest">
-
-		<!-- Meta Tags -->
-		<meta property="og:url"           content="{{ page.website_url }}" />
-		<meta property="og:type"          content="website" />
-		<meta property="og:title"         content="{{ page.title }}" />
-		<meta property="og:description"   content="{{ page.description }}" />
-		<meta property="og:image"         content="{{ page.website_url }}/photos/{{ site.data.photos[0].id }}.{{ site.data.photos[0].fileExtension }}" />
 	</head>
 	<body class="landing is-preload">
 
