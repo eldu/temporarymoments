@@ -133,6 +133,14 @@
   #gallery figcaption a:visited {
     color: var(--palette-medium);
   }
+
+  .pswp__button--caption {
+    display: none;
+  }
+
+  .pswp__caption {
+    display: none;
+  }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
