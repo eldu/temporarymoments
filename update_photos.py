@@ -197,7 +197,7 @@ def main():
                 photo = "![{0}]({1})".format(item['id'], "images/photos_thumbnail/{id}.{fileExtension}".format(**item))
                 description = html2markdown.convert(item.get("description", ""))
 
-                content += "{0}\n{1}\n\n".format(photo, description)
+                content += "{0}\n\n{1}\n\n".format(photo, description)
 
             mdFile.write(content)
             mdFile.create_md_file()

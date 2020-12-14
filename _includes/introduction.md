@@ -1,9 +1,5 @@
-Public art is an accessible form of communication that spans across social boundaries. It confronts people in their 
-everyday environment. It is a reflection of the times we live in and is a critique on society.
+Public art confronts us in our everyday environment. It is a reflection of the times we live in and a critique on our society.
 
-Currently, this project focuses on the events that unfolded in Seattle, WA from the stay at home order through the 
-racial justice protests in 2020. Murals painted across boarded up buildings express the raw emotions of the community. 
-The Black Lives Matter movement and these protests are resonating with a lot of people. 
+Currently, this project focuses on the events that unfolded in Seattle, WA from the stay at home order through the racial justice protests in 2020. Artists painted across boarded up buildings to express the raw emotions of the community. Their messages throughout the pandemic and the Black Lives Matter movement resonate with us. 
 
-These are temporary moments and history remembers. Lives have been affected. Let’s talk about it. We encourage you to be 
-curious and to widen your perspective.
+*Nothing is more permanent than the temporary* — A.E. Stallings
