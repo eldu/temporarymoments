@@ -31,6 +31,8 @@ import requests
 from apiclient import errors
 import os
 import pprint
+import html2markdown
+from mdutils.mdutils import MdUtils
 
 TEMPORARYMOMENTS_FOLDER_ID = "1m1SBar05i6ov59CPfz_CsrGA-iwiSzxb"
 SEATTLE_FOLDER_ID = "1ASIRGe59CgDIpztCJGUEtQOkGKNpVKSw"
@@ -126,6 +128,7 @@ def main():
     parser.add_argument('--download_files', '-d', action='store_true', dest='download_files', default=False)
     parser.add_argument('--download_metadata', action='store_true', dest='download_metadata', default=False)
     parser.add_argument('--upload_metadata', action='store_true', dest='upload_metadata', default=False)
+    parser.add_argument('--to_markdown', action='store_true', dest='to_markdown', default=False)
     args = parser.parse_args()
 
     # Validate arguments
@@ -182,6 +185,22 @@ def main():
                     with open(dest, 'wb') as f:
                         f.write(r.content)
                         print("{0}/{1} Downloaded {2} to {3}".format(index + 1, len(items), item['name'], dest))
+
+        if args.to_markdown:
+            local_items = []
+            with open('_data/photos.json', 'r', encoding='utf=8') as f:
+                local_items = json.load(f)
+
+            content = ""
+            mdFile = MdUtils(file_name='Seattle Draft',title='Temporary Moments')
+            for item in local_items:
+                photo = "![{0}]({1})".format(item['id'], "images/photos_thumbnail/{id}.{fileExtension}".format(**item))
+                description = html2markdown.convert(item.get("description", ""))
+
+                content += "{0}\n{1}\n\n".format(photo, description)
+
+            mdFile.write(content)
+            mdFile.create_md_file()
 
 if __name__ == '__main__':
     main()
