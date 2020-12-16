@@ -90,7 +90,7 @@ image: https://www.temporarymoments.com/images/banner.jpg
 				<div class="inner">
 					<header class="major">
 						{% capture introduction %}{% include introduction.md %}{% endcapture %}
-						<p>{{ introduction || markdownify }}</p>
+						<p>{{ introduction | markdownify }}</p>
 					</header>
 				</div>
 			</section>
@@ -103,7 +103,7 @@ image: https://www.temporarymoments.com/images/banner.jpg
 						<img src="images/photos_thumbnail/{{ photo.id }}.{{ photo.fileExtension }}"
 							 data-index-number="{{ forloop.index0 }}"
 						/>
-						<figcaption>{{ photo.description | newline_to_br }}</figcaption>
+						<figcaption>{{ photo.description }}</figcaption>
 					</figure>
 					{% endfor %}
 				</div>
@@ -117,7 +117,7 @@ image: https://www.temporarymoments.com/images/banner.jpg
 						<!-- Markdownify -->
 						<!-- https://github.com/jekyll/jekyll/issues/1303#issuecomment-21067548 -->
 						{% capture thank_you %}{% include thank_you.md %}{% endcapture %}
-						<p>{{ thank_you || markdownify }}</p>
+						<p>{{ thank_you | markdownify }}</p>
 					</header>
 				</div>
 			</section>
