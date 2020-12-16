@@ -3,6 +3,16 @@
 On February 29, 2020, Gov. Jay Inslee declared a State of Emergency just days after the first two known U.S. COVID-19 deaths. State agencies were to use all resources necessary to prepare for and respond to the outbreak. Slowing the spread of the virus became the top priority.
 
 ---
+![1dSBCCM-8JoPWL-cxhQHFBG6tKyUv1bmv](images/photos_thumbnail/1dSBCCM-8JoPWL-cxhQHFBG6tKyUv1bmv.jpg)  
+
+COVID-19 most commonly spreads between people who are in close contact with one another through respiratory droplets or small particles. Avoid exposure to the virus or spreading it by practicing social distancing (6 feet apart, 2 arm lengths), wearing a mask, and washing hands.  
+  
+(middle) We cannot wait to see you again!  
+(right) Stand six steps back and promise you love me  
+  
+[@oddfellowscafe](https://www.instagram.com/oddfellowscafe/?hl=en) [@stacy\_milrany\_art](https://www.instagram.com/stacy_milrany_art/)
+
+---
 ![1nBGY9stbjZqIfMImDKiysP7fy30jwuUB](images/photos_thumbnail/1nBGY9stbjZqIfMImDKiysP7fy30jwuUB.jpg)  
 
 On March 23, 2020, Inslee announced a Stay Home, Stay Healthy order. Everyone was required to stay home unless they needed to pursue an essential activity. Gatherings were banned and nonessential businesses were shut down.
@@ -22,37 +32,12 @@ Before those temporary murals across the intersection, this rainbow crosswalk re
 
 >  "Being born gay, Black, and female is not a revolutionary act. Being proud to be gay, Black and female is." — Lena Waith during her speech at Essence's Black Women in Hollywood event.
 
- ---
-![1dSBCCM-8JoPWL-cxhQHFBG6tKyUv1bmv](images/photos_thumbnail/1dSBCCM-8JoPWL-cxhQHFBG6tKyUv1bmv.jpg)  
-
-COVID-19 most commonly spreads between people who are in close contact with one another through respiratory droplets or small particles. Avoid exposure to the virus or spreading it by practicing social distancing (6 feet apart, 2 arm lengths), wearing a mask, and washing hands.  
-  
-(middle) We cannot wait to see you again!  
-(right) Stand six steps back and promise you love me  
-  
-[@oddfellowscafe](https://www.instagram.com/oddfellowscafe/?hl=en) [@stacy\_milrany\_art](https://www.instagram.com/stacy_milrany_art/)
-
 ---
 ![1huplwiaqg74CBDmwQpQPmcgs7Wlxp2Q1](images/photos_thumbnail/1huplwiaqg74CBDmwQpQPmcgs7Wlxp2Q1.jpg)  
   
 With increased time at home, people picked up new and old hobbies to spend their time. Puzzles were flying off of the shelves and selling out online.   
   
 [@comet\_taven](https://www.instagram.com/comet_tavern/?hl=en) [@sean\_evergreen](https://www.instagram.com/sean_evergreen/)
-  
----
-![1rljD70Ad6odXpHs-87jAcwG59NQYJNWw](images/photos_thumbnail/1rljD70Ad6odXpHs-87jAcwG59NQYJNWw.jpg) 
-
-Mental illness has sharply increased in 2020 and has continued to rise over the last few years. People who screened with moderate to severe symptoms of anxiety or depression noted that they were struggling most with loneliness and isolation. Rates of anxiety, depression, and suicidal ideation rates are rising amongst adults and are the highest among youth.   
-[Read more on the state of mental health in America on Mental Health America.](https://www.mhanational.org/issues/state-mental-health-america)  
-  
-[@purebonaventure](https://www.instagram.com/purebonaventure/) [@overallcreative](https://www.instagram.com/overallcreative/) [@comet\_tavern](https://www.instagram.com/comet_tavern/)  
-
----
-![14iVp-7-LJN6mUpBYxY8MEZVBdLYVvHgO](images/photos_thumbnail/14iVp-7-LJN6mUpBYxY8MEZVBdLYVvHgO.jpg)  
-Mindfulness meditation is a way to help cope with stress. It has gained popularity globally with 200-500 million people practicing. The majority of people meditate to improve their overall wellbeing. Relieving anxiety and stress or improving heart health are other reasons to start practicing.   
-  
-(left) It's okay to slow down \#keepsmilingseattle [@morgan\_smile](https://www.instagram.com/morgan_smile/) [@morgansmile\_designs](https://www.instagram.com/morgansmile_designs/)  
-(right) Press to reboot society
 
 ---
 ![1aYLAtkdxjdRCLqyKc25Mw60AZEK18x_q](images/photos_thumbnail/1aYLAtkdxjdRCLqyKc25Mw60AZEK18x_q.jpg)  
@@ -65,9 +50,16 @@ Hair salons and barbers closed due to the pandemic prompting some at-home quaran
 May Day. The record high unemployment rates due to COVID, delays in unemployment payments, unclear eviction bans, and pending rent threaten food and shelter for many. Neighborhoods in Seattle petitioned a rent strike to put pressure on landlords and politicians for a statewide suspension of rent, mortgage, and utility payments.
 
 ---
+![1a64M9V6zQZvMeyz7ogeUZD4IGI8AVx0a](images/photos_thumbnail/1a64M9V6zQZvMeyz7ogeUZD4IGI8AVx0a.jpg) 
+
+Zoom, a video conferencing service, gained popularity during the pandemic to keep up with friends and family or to have staff meetings. The interface was relatively intuitive and logins weren't required to join meetings.  
+  
+Throughout the pandemic many have had zoom birthdays, happy hours, and even weddings!
+
+---
 ![1HWPlMJ2SOBm2J2Jx-HW2DMn8FY9al8BS](images/photos_thumbnail/1HWPlMJ2SOBm2J2Jx-HW2DMn8FY9al8BS.jpg) 
 
-Although concerts and other live performances were postponed or cancelled, live streams have risen as an alternative performance space. Viewers can engage through commenting and reacting. The artist can interact with their audience and have a human connection.   
+Although concerts and other live performances were postponed or cancelled, live streams rose as an alternative performance space. Viewers can engage through commenting and reacting. The artist can interact with their audience and have a human connection.   
     
 [@neumos\_](https://www.instagram.com/neumos_/) [@therunawayseattle](https://www.instagram.com/therunawayseattle/)
 
@@ -79,23 +71,29 @@ In June 2020, restaurants and bars in Seattle were allowed to reopen with limite
 [@morgan\_smile](https://www.instagram.com/morgan_smile/) [@morgansmile\_designs](https://www.instagram.com/morgansmile_designs/) \#keepsmilingseattle [@samstavern](https://www.instagram.com/samstavern/)
 
 ---
-![1a64M9V6zQZvMeyz7ogeUZD4IGI8AVx0a](images/photos_thumbnail/1a64M9V6zQZvMeyz7ogeUZD4IGI8AVx0a.jpg) 
+![1rljD70Ad6odXpHs-87jAcwG59NQYJNWw](images/photos_thumbnail/1rljD70Ad6odXpHs-87jAcwG59NQYJNWw.jpg) 
 
-Zoom, a video conferencing service, gained popularity during the pandemic to keep up with friends and family or to have staff meetings. The interface was relatively intuitive and logins weren't required to join meetings.  
+Mental illness rates sharply increased in 2020. They have been on an upward trend over the last few years. People who screened with moderate to severe symptoms of anxiety or depression noted that they were struggling most with loneliness and isolation. Rates of anxiety, depression, and suicidal ideation rates are rising amongst adults and are the highest among youth.   
+[Read more on the state of mental health in America on Mental Health America.](https://www.mhanational.org/issues/state-mental-health-america)  
   
-Throughout the pandemic many have had zoom birthdays, happy hours, and even weddings!
+[@purebonaventure](https://www.instagram.com/purebonaventure/) [@overallcreative](https://www.instagram.com/overallcreative/) [@comet\_tavern](https://www.instagram.com/comet_tavern/)  
+
+---
+![14iVp-7-LJN6mUpBYxY8MEZVBdLYVvHgO](images/photos_thumbnail/14iVp-7-LJN6mUpBYxY8MEZVBdLYVvHgO.jpg)  
+Mindfulness meditation is a way to help cope with stress. It has gained popularity globally with 200-500 million people practicing. The majority of people meditate to improve their overall wellbeing. Relieving anxiety and stress or improving heart health are other reasons to start practicing.   
+  
+(left) It's okay to slow down \#keepsmilingseattle [@morgan\_smile](https://www.instagram.com/morgan_smile/) [@morgansmile\_designs](https://www.instagram.com/morgansmile_designs/)  
+(right) Press to reboot society
 
 ---
 ![1eL4vN8vBSZrdlLsoDwZ60AxVNoy8Z-Np](images/photos_thumbnail/1eL4vN8vBSZrdlLsoDwZ60AxVNoy8Z-Np.jpg) 
 
-As we walked through Pioneer Square we encountered murals in varying stages of progress.  
-  
-Seattle's skyline is always changing with new construction.
+As we walked through Pioneer Square we encountered murals in varying stages of progress. Seattle's skyline is always changing with new construction.
 
 ---
 ![1GzZUxUSUpkbWb0HntaMeMHmo4oGF_mdU](images/photos_thumbnail/1GzZUxUSUpkbWb0HntaMeMHmo4oGF_mdU.jpg) 
 
-Boarded up buildings have become blank canvas for local artists to fill. They brighten up the landscape of the city.
+Boarded up buildings became blank canvas for local artists to fill.
 
 ---
 ![10L0dnzWvf7QjzcajxCw9PYX0xS6WGJVq](images/photos_thumbnail/10L0dnzWvf7QjzcajxCw9PYX0xS6WGJVq.jpg) 
@@ -154,7 +152,7 @@ One World: Together at Home was a series of benefit concerts artists held over I
 
 Independent book stores closed their doors as COVID-19 forced non-essential businesses to close. Readers have shifted online for books and looked for ways to support their local bookstores.  
   
-"A book is a dream that you hold in your hands" quote by Neil Gaiman  
+"A book is a dream that you hold in your hands" — Neil Gaiman  
 [@purebonaventure](https://www.instagram.com/purebonaventure/)
 
 ---
@@ -172,8 +170,6 @@ In our emergent reality, complexity and uncertainty are ever flowing. With this 
 ---
 ![1m25PLeQ-uhNumcHflWaGvVj8f5XRmMKH](images/photos_thumbnail/1m25PLeQ-uhNumcHflWaGvVj8f5XRmMKH.jpg)  
 
-  
-
 We stopped by this mural while it was in progress. It embodied hope as a certainty during these uncertain times. We needed that these days. The subsequent images of this mural are captioned by poems or short messages to remind us to keep on dreaming.  
 [@b\_line\_dot](https://www.instagram.com/b_line_dot/)
 
@@ -189,7 +185,7 @@ Dream anyway.
 Vamos vamos vamos_  
 [Tweet](https://twitter.com/lin_manuel/status/1083565565522952192?lang=en) by [Lin-Manuel Miranda](https://twitter.com/Lin_Manuel)  
   
-Lin-Manuel Miranda is an award-winning composer, lyricist, and actor. He is the creator of _In the Heights_ and _Hamilton_. He is an artist and an activist. He also tweets bookends to the day good morning and good night. These lil pep talks have made their way into out hearts and into a book called _Gmorning, Gnight!: Little Pep Talks for Me &amp; You_ by Lin-Manuel Miranda.  
+Lin-Manuel Miranda is an award-winning composer, lyricist, and actor. He is the creator of _In the Heights_ and _Hamilton_. He is an artist and an activist. He tweets bookends to the day good morning and good night. These lil pep talks have made their way into our hearts and into a book called _Gmorning, Gnight!: Little Pep Talks for Me &amp; You_ by Lin-Manuel Miranda.  
 [@b\_line\_dot](https://www.instagram.com/b_line_dot/)
 
 ---
@@ -229,7 +225,7 @@ Dreams by Langston Hughes. Langston Hughes was an American writer who wrote abou
 
 ---
 ![1B8mIRkkPqHEJHrvEOe8UBQzIu__AMzuc](images/photos_thumbnail/1B8mIRkkPqHEJHrvEOe8UBQzIu__AMzuc.jpg)  
-Car traffic across the country has decreased ~40% during the pandemic as people work from home and unemployment rates skyrocket. However, some cities are seeing minimal decrease in air pollution where their dominant sources of pollution include factories, refineries, power plants, and diesel trucks. Efforts for cleaner air must continue.
+Car traffic across the country decreased ~40% during the pandemic as people work from home and unemployment rates skyrocket. However, some cities are seeing minimal decrease in air pollution where their dominant sources of pollution include factories, refineries, power plants, and diesel trucks.
 
 ---
 ![1EJHxSayzVSGFqCCEnYN4dMnWyJJ9wQcm](images/photos_thumbnail/1EJHxSayzVSGFqCCEnYN4dMnWyJJ9wQcm.jpg)
@@ -256,7 +252,8 @@ Nothing changes if nothing changes.
 [@sweetlikedezi](https://www.instagram.com/sweetlikedezi/)
 
 ---
-![18qAUrx2Njs_q8T71JLLfLRrfuuPdO4-l](images/photos_thumbnail/18qAUrx2Njs_q8T71JLLfLRrfuuPdO4-l.jpg) 
+![18qAUrx2Njs_q8T71JLLfLRrfuuPdO4-l](images/photos_thumbnail/18qAUrx2Njs_q8T71JLLfLRrfuuPdO4-l.jpg)
+Keep going. Keep growing. Life is tough, but so are you. Nothing changes if nothing changes.
 [@sweetlikedezi](https://www.instagram.com/sweetlikedezi/)
 
 ---
@@ -273,14 +270,13 @@ _Leave a word, take a turn._ Markers were set aside for participation. [24 hours
 
 ---
 ![1sOdM5d_mSdSpB0QPuClVa0VuqVAi6EoI](images/photos_thumbnail/1sOdM5d_mSdSpB0QPuClVa0VuqVAi6EoI.jpg)
-George Floyd pleaded these words as a police officer pressed his knee into Floyd's neck.  
+On May 25, 2020, George Floyd, a 46-year-old Black man was killed by Minneapolis police officers while being arrested for allegedly using a counterfeit bill. He pleaded "I can't breathe," as a police officer pressed his knee into his neck.  
   
-In 2014, Eric Garner, an unarmed Black man, was killed in a chokehold by New York City Police. "I can't breathe," were his dying words. It has continued through worldwide protests against police brutality and lack of police accountability.
+In 2014, Eric Garner, an unarmed Black man, was killed in a chokehold by New York City Police. "I can't breathe," were his dying words. These words continue through worldwide protests against police brutality and lack of police accountability.
 
 ---
-![11trOGo9yghvVm4JMjMGeJhKsx2QErkEL](images/photos_thumbnail/11trOGo9yghvVm4JMjMGeJhKsx2QErkEL.jpg)
-
-Capitol Hill Autonomous Zone (CHAZ) was an occupational protest and self-declared autonomous zone in Capitol Hill. It encompassed six city blocks and Cal Anderson Park surrounding Seattle Police Department's East Precinct building. It would later be known as the Capitol Hill Occupied Protest (CHOP).
+![1AuYMyP0BFVYrcsFqG_Ucsa1bi_CzxxEN](images/photos_thumbnail/1AuYMyP0BFVYrcsFqG_Ucsa1bi_CzxxEN.jpg)  
+In Seattle, the George Floyd police brutality protests started on May 29, 2020. Protestors marched and staged sit-ins throughout the city. They spoke against systemic racism and police brutality.
 
 ---
 ![1HtFQAEv5S6ZgUxv2lPjk6rB48zOZqabQ](images/photos_thumbnail/1HtFQAEv5S6ZgUxv2lPjk6rB48zOZqabQ.jpg)
@@ -291,7 +287,7 @@ No Justice
 No peace  
 You are now entering free capital hill_  
   
-Prior to the zone's formation, there were escalating tense interactions between protestors and the Seattle Police Department (SPD). SPD, in full riot gear, used aggressive dispersal tactics on protestors. They used blast balls, flash bangs, pepper spray, and tear gas to control the crowds. 
+In first week of June 2020, there were escalating tense interactions between protestors and the Seattle Police Department (SPD). SPD, in full riot gear, used aggressive dispersal tactics on protestors. They used blast balls, flash bangs, pepper spray, and tear gas to control the crowds. 
 
 ---
 ![1YZWn-A1bx9bcWntlE8gmPY_E8X1WC8oT](images/photos_thumbnail/1YZWn-A1bx9bcWntlE8gmPY_E8X1WC8oT.jpg) 
@@ -299,6 +295,11 @@ Prior to the zone's formation, there were escalating tense interactions between 
 On the night of June 7th 2020, a man drove a car into the crowd and shot a protestor. He walked past the police barricade and toward the police. They didn't fire off any tear gas, flash bombs, or rubber bullets at him even though he just shot a civilian. The victim was treated by protestors until medics arrived.  
   
 Later that night, SPD used tear gas to control the protestors despite the mayor's ban just days prior. They tweeted that the crowd threw rocks, bottles, and fireworks. The next morning the police boarded up and moved out of the East Precinct in an effort to de-escalate the situation. Protesters moved into the zone to begin the occupational protest.
+
+---
+![11trOGo9yghvVm4JMjMGeJhKsx2QErkEL](images/photos_thumbnail/11trOGo9yghvVm4JMjMGeJhKsx2QErkEL.jpg)
+
+The Capitol Hill Autonomous Zone (CHAZ) was an occupational protest and self-declared autonomous zone in Capitol Hill. It encompassed six city blocks and Cal Anderson Park surrounding Seattle Police Department's East Precinct building. It would later be known as the Capitol Hill Occupied Protest (CHOP).
 
 ---
 ![1H6MW6M29rPhTTl0rSK6Fd7w_0nblrhTH](images/photos_thumbnail/1H6MW6M29rPhTTl0rSK6Fd7w_0nblrhTH.jpg)  
@@ -322,19 +323,14 @@ Defunding the police proposes to reduce and redistribute the police budget towar
   
 "Police budgets continue to be consistent across diverse geographies and cities in the United States, with up to 20% to 45% of discretionary funds allocated to the violent system. All of the police budgets analyzed in the Freedom to Thrive Report have increased since FY17." [(Source: The Center for Popular Democracy)](https://populardemocracy.org/news-and-publications/congress-must-divest-billion-dollar-police-budget-and-invest-public-education)  
   
-Crime reduction is difficult without addressing problems stemming from chronic poverty. Homeless shelters, workforce development programs, schools, hospitals, food pantries, and community centers have a significant impact on reducing crime rate and increasing safety. They provide support for people and services in marginalized communities.
+Crime reduction is difficult to do without addressing problems stemming from chronic poverty. Homeless shelters, workforce development programs, schools, hospitals, food pantries, and community centers have a significant impact on reducing crime rate and increasing safety. They provide support for people and services in marginalized communities.
 
 ---
 ![16tSlq60TZd0uNEvKWNhSltcIc5YRdKGJ](images/photos_thumbnail/16tSlq60TZd0uNEvKWNhSltcIc5YRdKGJ.jpg)  
 
 In this ongoing series of police brutality protests, protestors have been charged with felonies and misdemeanors including violating curfew, trespassing, vandalism, property destruction, theft, and unlawful assembly. An arrest or minor charge can have significant consequences that ripple through a person's life.  
   
-These protestors should be celebrated for their courage and forgiven their civil disobedience--not prosecuted. In 2006, the Rosa Parks Act was passed to clear the arrest records from those considered law-breakers during the Montgomery bus boycott of civil disobedience charges. That boycott resulted in the Supreme Court ruling segregation on public buses unconstitutional. It was a significant step towards civil rights and transit equality.
-
----
-![1AuYMyP0BFVYrcsFqG_Ucsa1bi_CzxxEN](images/photos_thumbnail/1AuYMyP0BFVYrcsFqG_Ucsa1bi_CzxxEN.jpg)  
-The George Floyd protests started on May 29, 2020 and are ongoing.  
-_Updated Dec 12, 2020_
+These protestors should be celebrated for their courage and forgiven their civil disobedience—not prosecuted. In 2006, the Rosa Parks Act was passed to clear the arrest records from those considered law-breakers during the Montgomery bus boycott of civil disobedience charges. That boycott resulted in the Supreme Court ruling segregation on public buses unconstitutional. It was a significant step towards civil rights and transit equality.
 
 ---
 ![1PaBZIO79JtmiIE94gUcKblakfZlCv-t1](images/photos_thumbnail/1PaBZIO79JtmiIE94gUcKblakfZlCv-t1.jpg)  
@@ -344,26 +340,28 @@ The [print](http://firstandfifteenth.net/blm1.pdf) is available online to downlo
 [Instagram Post](https://www.instagram.com/p/CBBpM28jNw3/?utm_source=ig_embed) by [@steveespopowers](https://www.instagram.com/steveespopowers/?hl=en)
 
 ---
+![1fWH1PiFxOfPKevxOAm1ILWWwB_yiNcKn](images/photos_thumbnail/1fWH1PiFxOfPKevxOAm1ILWWwB_yiNcKn.jpg)  
+
+Artists are using stencil graffiti to provide political commentary, protest, and to criticize our society. Stencil graffiti is an effective technique to quickly spray artwork up and replicate.
+
+---
 ![194tAZASK2C3INuX9q9mM60NRoi6Baf_u](images/photos_thumbnail/194tAZASK2C3INuX9q9mM60NRoi6Baf_u.jpg)  
 "Fuck SPD", "Fuck 12" and "Fuck the Police" were spray painted all across the CHAZ/CHOP zone in response to the excessive use of force by SPD. "Fuck the Police" originates from "Fuck tha Police", a protest song by N.W.A in 1988, that protests police brutality and racial profiling.
 
 ---
 ![1ewLfJ6ONE_DoJSbasrro0q_PBIpuRfvR](images/photos_thumbnail/1ewLfJ6ONE_DoJSbasrro0q_PBIpuRfvR.jpg)  
 
----
-![1FEVvsx7pIMiMwOrnAdZDgMSlKUDW-fbt](images/photos_thumbnail/1FEVvsx7pIMiMwOrnAdZDgMSlKUDW-fbt.jpg)  
-"I swore an oath to defend our constitution against all enemies foreign and God damned domestic. Three generations of my family have served for this god damned county. Ever since we've been allowed to pick up arms someone in my family has fuckin' served... It's about God damn time America realized who the fuck I am... I'm motherfuckin' Black and I'm motherfuckin' proud." quote by Aubrey Rose, a proud Black retired army staff sergeant.
+A.C.A.B. (All Cops are Bastards) was also graffitied throughout the zone. The sentiment of the statement is that every police officer is part of a system that actively oppresses people of color.
+
+[What I mean when I say I want to abolish the police](https://www.independent.co.uk/voices/acab-abolish-police-george-floyd-protests-cops-a9543386.html)
 
 ---
 ![1eL1jKtF5MyNhPwzNWhAoHPtddgZSbMbt](images/photos_thumbnail/1eL1jKtF5MyNhPwzNWhAoHPtddgZSbMbt.jpg)  
 The Black power fist salute represents Black pride and solidarity. The BLM movement adopted this symbol after the death of Michael Brown. The unarmed Black teenager was shot dead by police in Missouri in 2014.  
 
 ---
-![1fWH1PiFxOfPKevxOAm1ILWWwB_yiNcKn](images/photos_thumbnail/1fWH1PiFxOfPKevxOAm1ILWWwB_yiNcKn.jpg)  
-
-Stencil graffiti is an effective technique to quickly spray artwork up and replicate. These artworks are easy to understand because of its simple and straightforward designs. Street artists have used this technique to provide political commentary, protest, and to criticize our society.  
-  
-These BLM power fist salutes have been sprayed throughout the country on streets, walls, and other surfaces. It interrupts and challenges our everyday spaces. _This is not a moment, it's a movement._
+![1FEVvsx7pIMiMwOrnAdZDgMSlKUDW-fbt](images/photos_thumbnail/1FEVvsx7pIMiMwOrnAdZDgMSlKUDW-fbt.jpg)  
+"I swore an oath to defend our constitution against all enemies foreign and God damned domestic. Three generations of my family have served for this god damned county. Ever since we've been allowed to pick up arms someone in my family has fuckin' served... It's about God damn time America realized who the fuck I am... I'm motherfuckin' Black and I'm motherfuckin' proud." quote by Aubrey Rose, a proud Black retired army staff sergeant.
 
 ---
 ![1BckguHATWPjDokTzEiUvNy8S-zYip9Kt](images/photos_thumbnail/1BckguHATWPjDokTzEiUvNy8S-zYip9Kt.jpg)  
@@ -393,7 +391,7 @@ The Pan-African flag is a horizontal triband with red, black, and green stripes.
 ---
 ![1RyaZ3BrfmPXEO8tQQAtG2b9e1uLT4b9f](images/photos_thumbnail/1RyaZ3BrfmPXEO8tQQAtG2b9e1uLT4b9f.jpg)  
 
-The killing of George Floyd by the Minneapolis police is part of a long line of incidents of excessive police misconduct with qualified immunity. Qualified immunity is a Supreme Court doctrine that shields government officials from liability for misconduct, even if rights are violated, unless there is a clearly established law from a prior case with the same consequences.  
+The killing of George Floyd is part of a long line of incidents of excessive police misconduct with qualified immunity. Qualified immunity is a Supreme Court doctrine that shields government officials from liability for misconduct, even if rights are violated, unless there is a clearly established law from a prior case with the same consequences.  
   
 Christopher J. Davis, was shot and killed by a Walworth County deputy who fired into a moving vehicle when deadly force was not appropriate or necessary. The U.S. 7th District Court of Appeals in Chicago decided that the deputy was covered under qualified immunity.
 
@@ -449,19 +447,17 @@ Art Vault is a local non-profit organization that provides free art materials to
 
 ---
 ![1Wu1JL_DqIxAs2f3JcnYDRA59UT6_R9b2](images/photos_thumbnail/1Wu1JL_DqIxAs2f3JcnYDRA59UT6_R9b2.jpg) 
-
-Perry Paints is a local painter and songwriter from Tacoma, WA. He uses the power of art to show that people like us are beautiful.  
   
 [@perrypaints](https://www.instagram.com/perrypaints/)
 
 ---
 ![1nZDcxEx1tjvm-kLBEz-GNe0Id5N7oL4B](images/photos_thumbnail/1nZDcxEx1tjvm-kLBEz-GNe0Id5N7oL4B.jpg)  
-"You are imperfect, you are wired for struggle, but you are worth of love and belonging." quote by Brené Brown, author of _Daring Greatly_.
+"You are imperfect, you are wired for struggle, but you are worth of love and belonging." — Brené Brown, author of _Daring Greatly_.
 
 ---
 ![1Pem37TXh1R2aA7stcQBbMPGcEyB9NWpB](images/photos_thumbnail/1Pem37TXh1R2aA7stcQBbMPGcEyB9NWpB.jpg)
 
-The homeless are one of the most susceptible and vulnerable to the pandemic. A high percentage of the homeslessness population are older adults and/or have pre-existing conditions. They have significant barriers to self-care and hygiene. Crowded conditions also ease the spread of airborne infections. Many of the recommendations to prevent COVID are difficult for the homeless to execute.  
+The homeless are one of the most susceptible and vulnerable to the pandemic. A high percentage of the homelessness population are older adults and/or have pre-existing conditions. They have significant barriers to self-care and hygiene. Crowded conditions also ease the spread of airborne infections. Many of the recommendations to prevent COVID are difficult for the homeless to execute.  
   
 Homeless shelters are grappling with COVID safety as winter approaches. The homeless population is increasing and has grown by 22% over the last five years. The great need for shelter supasses the limited system resources. To mitigate this effect, some cities have set up emergency shelters in unused public school buildings and hotels.
 
@@ -490,7 +486,7 @@ Various artists came together to create this wall of love and solidarity in thes
 ---
 ![1xIP9g5uq_WJsA4-1-TL2jmVofK90uq2X](images/photos_thumbnail/1xIP9g5uq_WJsA4-1-TL2jmVofK90uq2X.jpg)  
 
-The phrase, "to carry the weight of the world on one�s shoulders," is derived from the Greek Myth wherein Altas, a Titan, bore the weight of the heavens on his shoulders.   
+The phrase, "to carry the weight of the world on one's shoulders," is derived from the Greek Myth wherein Altas, a Titan, bore the weight of the heavens on his shoulders.   
   
 Health care workers are experiencing rising levels of burnout, anxiety, and stress. The shortage of Personal Protection Equipment (PPE) puts their patients and themselves at risk. PPE is not intended to be reused. Delayed test turnarounds are preventing the US from effectively containing the virus through the strategy of testing, tracing, and isolating. In addition, protocol changes about COVID-19 were not clearly communicated. 
 
@@ -503,6 +499,8 @@ Stay safe love. Love is the way.
 ![1qW_Ng2EseuDhHrO3WVGBTZXTitYbKhE2](images/photos_thumbnail/1qW_Ng2EseuDhHrO3WVGBTZXTitYbKhE2.jpg)  
 
 We are a proud Black woman owned business \#poc \#queerrun \#blm
+
+[@plum.bistro](https://www.instagram.com/plum.bistro/)
 
 ---
 ![14AH7oYv1J-g4obtK-UpLtp--RUmOkgJX](images/photos_thumbnail/14AH7oYv1J-g4obtK-UpLtp--RUmOkgJX.jpg)  
@@ -533,26 +531,9 @@ Opt for love.
 Protect our elders. Elders and the immunocompromised are at higher risk for getting severely ill from COVID-19.  
 
 ---
-![10zGGIk188cmA_ycJeaoL5A9DTtYxS-wb](images/photos_thumbnail/10zGGIk188cmA_ycJeaoL5A9DTtYxS-wb.jpg)  
-This is 2020   
-The bus, the car, the firetruck  
-The red stoplight   
-The big billboard advertisement with skyscrapers all around  
-The mother-daughter pair walking together  
-The trees in this urban environment  
-The demands for social change painted on plywood  
-The news fatigue   
-And the raised fist clenching a rose 
-
----
 ![1MLBwcLDzll74f1LjaNxiWCdXokUujmGy](images/photos_thumbnail/1MLBwcLDzll74f1LjaNxiWCdXokUujmGy.jpg)  
 Black Lives Matter  
 None of us are free until all of us are free
-
----
-![1KaHYZ1s1JD483Vmqp3VvcX8Zs7IELq-n](images/photos_thumbnail/1KaHYZ1s1JD483Vmqp3VvcX8Zs7IELq-n.jpg)  
-
-Portraits of generations
 
 ---
 ![1JBaDzogHqGnvLRNBzGHuZo7MW2lH2crw](images/photos_thumbnail/1JBaDzogHqGnvLRNBzGHuZo7MW2lH2crw.jpg)  
@@ -562,12 +543,12 @@ Portraits of generations
 ---
 ![1Hu2qPWYViE-l-Fr5f1ivlBAhyH3zJRvk](images/photos_thumbnail/1Hu2qPWYViE-l-Fr5f1ivlBAhyH3zJRvk.jpg)  
 
-"Tomorrow's world is yours to build" quote by Yuri Kochiyama
+"Tomorrow's world is yours to build" — Yuri Kochiyama
 
 ---
 ![1NnsaBRb_Z7gQvI39Fn0oIBZee87UFMoK](images/photos_thumbnail/1NnsaBRb_Z7gQvI39Fn0oIBZee87UFMoK.jpg)  
 
-"Anyway I don't think we can rely on governments, regardless of who is in power, to do the work that only mass movements can do." quote by Angela Y. Davis. She is a political activist, educator, and author who advocates for gender equity, prison reform, and alliances across color lines.
+"Anyway I don't think we can rely on governments, regardless of who is in power, to do the work that only mass movements can do." — Angela Y. Davis. She is a political activist, educator, and author who advocates for gender equity, prison reform, and alliances across color lines.
 
 ---
 ![1Yf_EsOs9BBr7IED8tFQf2zIzDViCe0GM](images/photos_thumbnail/1Yf_EsOs9BBr7IED8tFQf2zIzDViCe0GM.jpg)  
@@ -579,14 +560,10 @@ Listen to [Unwritten Rules by skoodupcam](https://www.tiktok.com/foryou?lang=en#
 [@skoodupcam](https://www.tiktok.com/@skoodupcam?lang=en) [@camig.ftp](https://www.instagram.com/camig.ftp)
 
 ---
-![1Wpr8TFtANiu2opXobjYIArahO9z9Rc4J](images/photos_thumbnail/1Wpr8TFtANiu2opXobjYIArahO9z9Rc4J.jpg)  
-
-[@\_axsm](https://www.instagram.com/_axsm/)
-
----
 ![1WatXCzWljnuMKGaeWPocn8TijRqdNIEC](images/photos_thumbnail/1WatXCzWljnuMKGaeWPocn8TijRqdNIEC.jpg)  
 
->  "Let nothing dim the light the shines from within" — Maya Angelou  
+>  "Let nothing dim the light the shines from within" — Maya Angelou
+
 [@lmfreebird](https://www.instagram.com/lmfreebird/)
   
 ---
@@ -612,21 +589,6 @@ Painted are notable Black female scientists whose work have revolutionized our l
 ![1LR3xJAnagEEhAXJ2YbEiAx3sw8YqXECw](images/photos_thumbnail/1LR3xJAnagEEhAXJ2YbEiAx3sw8YqXECw.jpg)  
 
 Fly away with me.
-
----
-![1N_L6lwzUG_TY6DAL8ZwJ_PubSzaaQ4wh](images/photos_thumbnail/1N_L6lwzUG_TY6DAL8ZwJ_PubSzaaQ4wh.jpg)  
-
-Ohana is a Hawaiian term that means family.
-
----
-![10U9II8GhpgWAo0HbZnx39y3jTt0uTK6z](images/photos_thumbnail/10U9II8GhpgWAo0HbZnx39y3jTt0uTK6z.jpg)  
-
-Black Lives Matter translated into Chinese, Filipino, Thai, and Korean.
-
----
-![1mRGS3taeAwh8XxvgJLIBSMv3pSD7i1Wx](images/photos_thumbnail/1mRGS3taeAwh8XxvgJLIBSMv3pSD7i1Wx.jpg)  
-
-Lokomaika'i: Always act with kindness
 
 ---
 ![1ibhT15YzaIboF4IGVxtcew6r9M3HZjSK](images/photos_thumbnail/1ibhT15YzaIboF4IGVxtcew6r9M3HZjSK.jpg)  
@@ -665,14 +627,29 @@ Located at Jade Garden Restaurant
 Standing in solidarity with Black Lives Matter.
 
 ---
-![1lLxeNNdFqd99cPqEkYHpS0R-E_CFiFhW](images/photos_thumbnail/1lLxeNNdFqd99cPqEkYHpS0R-E_CFiFhW.jpg)  
+![1Wpr8TFtANiu2opXobjYIArahO9z9Rc4J](images/photos_thumbnail/1Wpr8TFtANiu2opXobjYIArahO9z9Rc4J.jpg)  
 
-[Ten Percent Happier: Coronavirus Sanity Guide](https://www.tenpercent.com/coronavirussanityguide)  
-  
-_May we all be happy  
-May we all be safe  
-May we all be healthy  
-May we all live with ease_
+[@\_axsm](https://www.instagram.com/_axsm/)
+
+---
+![10U9II8GhpgWAo0HbZnx39y3jTt0uTK6z](images/photos_thumbnail/10U9II8GhpgWAo0HbZnx39y3jTt0uTK6z.jpg)  
+
+Black Lives Matter translated into Chinese, Filipino, Thai, and Korean.
+
+---
+![1mRGS3taeAwh8XxvgJLIBSMv3pSD7i1Wx](images/photos_thumbnail/1mRGS3taeAwh8XxvgJLIBSMv3pSD7i1Wx.jpg)  
+
+Lokomaika'i: Always act with kindness
+
+---
+![1N_L6lwzUG_TY6DAL8ZwJ_PubSzaaQ4wh](images/photos_thumbnail/1N_L6lwzUG_TY6DAL8ZwJ_PubSzaaQ4wh.jpg)  
+
+Ohana is a Hawaiian term that means family.
+
+---
+![1KaHYZ1s1JD483Vmqp3VvcX8Zs7IELq-n](images/photos_thumbnail/1KaHYZ1s1JD483Vmqp3VvcX8Zs7IELq-n.jpg)  
+
+Portraits of generations
 
 ---
 ![1Sr4L2QS0Z4UqaR1spEnUiZTl-9GEuY3H](images/photos_thumbnail/1Sr4L2QS0Z4UqaR1spEnUiZTl-9GEuY3H.jpg)  
@@ -695,3 +672,18 @@ if we tend to them
 ![1zJWdMzpFKHXwLveFZCl6AnxDSHw4M2GI](images/photos_thumbnail/1zJWdMzpFKHXwLveFZCl6AnxDSHw4M2GI.jpg)  
 
 [@bokabokfriedchicken](https://www.instagram.com/bokabokfriedchicken/) [@therunawayseattle](https://www.instagram.com/therunawayseattle/)  
+
+---
+![1lLxeNNdFqd99cPqEkYHpS0R-E_CFiFhW](images/photos_thumbnail/1lLxeNNdFqd99cPqEkYHpS0R-E_CFiFhW.jpg)  
+
+[Ten Percent Happier: Coronavirus Sanity Guide](https://www.tenpercent.com/coronavirussanityguide)  
+  
+_May we all be happy  
+May we all be safe  
+May we all be healthy  
+May we all live with ease_
+
+---
+![10zGGIk188cmA_ycJeaoL5A9DTtYxS-wb](images/photos_thumbnail/10zGGIk188cmA_ycJeaoL5A9DTtYxS-wb.jpg)  
+
+The year of 2020 has certainly been a lot to learn from. Into 2021 we go.
