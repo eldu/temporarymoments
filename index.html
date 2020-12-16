@@ -98,7 +98,8 @@ image: https://www.temporarymoments.com/images/banner.jpg
 			<section class="wrapper style3">
 				<div id="gallery" class="grid are-images-unloaded cs-style-1">
 					<div class="grid__col-sizer"></div>
-					{% for photo in site.data.photos %}
+					{% assign sortedPhotos = site.data.photos | sort: "name" %}
+					{% for photo in sortedPhotos %}
 					<figure class="grid__item" data-index-number="{{ forloop.index0 }}">
 						<img src="images/photos_thumbnail/{{ photo.id }}.{{ photo.fileExtension }}"
 							 data-index-number="{{ forloop.index0 }}"
