@@ -1,4 +1,6 @@
 """
+TODO: Clean up this script. I'm sorry
+
 Downloads data and files for use in the website
 
 Obstacles
@@ -32,11 +34,16 @@ from apiclient import errors
 import os
 import pprint
 import html2markdown
+import markdown
 from mdutils.mdutils import MdUtils
+import re
 
 TEMPORARYMOMENTS_FOLDER_ID = "1m1SBar05i6ov59CPfz_CsrGA-iwiSzxb"
 SEATTLE_FOLDER_ID = "1ASIRGe59CgDIpztCJGUEtQOkGKNpVKSw"
 TEST_FOLDER_ID = "1vjDZYfEf0pfTu-_qk5zWf6p3kPTvjMpS"
+
+LOCAL_PHOTOS_JSON = '_data/photos.json'
+LOCAL_PHOTOS_MARKDOWN = 'draft.md'
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly']
@@ -128,79 +135,124 @@ def main():
     parser.add_argument('--download_files', '-d', action='store_true', dest='download_files', default=False)
     parser.add_argument('--download_metadata', action='store_true', dest='download_metadata', default=False)
     parser.add_argument('--upload_metadata', action='store_true', dest='upload_metadata', default=False)
-    parser.add_argument('--to_markdown', action='store_true', dest='to_markdown', default=False)
+    parser.add_argument('--json_to_markdown', action='store_true', dest='json_to_markdown', default=False)
+    parser.add_argument('--markdown_to_json', action='store_true', dest='markdown_to_json', default=False)
+    parser.add_argument('--markdown_to_html', action='store_true', dest='markdown_to_html', default=False)
     args = parser.parse_args()
 
     # Validate arguments
     if args.download_metadata and args.upload_metadata:
         raise ValueError("Cannot download and upload metadata in the same run")
 
-    # Get service and files
-    service = get_service(args.credentials_file)
+    # Need to access the Google Drive
+    items = []
+    if any([args.download_metadata, args.download_files, args.upload_metadata]):
+        # Get service and files
+        service = get_service(args.credentials_file)
 
-    param = {
-        "q": "'{}' in parents and trashed = false".format(SEATTLE_FOLDER_ID),
-        "fields": "nextPageToken,files({0})".format(FILE_FIELDS),
-        "orderBy": "name"
-    }
+        param = {
+            "q": "'{}' in parents and trashed = false".format(SEATTLE_FOLDER_ID),
+            "fields": "nextPageToken,files({0})".format(FILE_FIELDS),
+            "orderBy": "name"
+        }
 
-    # Call the Drive v3 API
-    items = retrieve_files(service, param)
+        # Call the Drive v3 API
+        items = retrieve_files(service, param)
 
-    if not items:
-        print('No files found.')
-    else:
-        if args.download_metadata:
-            # Saves photo data as json to be read by Jekyll
-            with open('_data/photos.json', 'w', encoding='utf-8') as f:
-                json.dump(items, f, ensure_ascii=False, indent=4)
+    if args.download_metadata:
+        # Saves photo data as json to be read by Jekyll
+        with open(LOCAL_PHOTOS_JSON, 'w', encoding='utf-8') as f:
+            json.dump(items, f, ensure_ascii=False, indent=4)
 
-            # Saves photo data as js variable to be read by js
-            with open('src/photos.js', 'w', encoding='utf-8') as f:
-                f.write("var photos = {0}; export {{ photos }};".format(json.dumps(items, ensure_ascii=False, indent=2)))
+        # Saves photo data as js variable to be read by js
+        with open('src/photos.js', 'w', encoding='utf-8') as f:
+            f.write("var photos = {0}; export {{ photos }};".format(json.dumps(items, ensure_ascii=False, indent=2)))
 
-        if args.upload_metadata:
-            item_id_to_item = {i['id']: i for i in items}
+    if args.upload_metadata:
+        item_id_to_item = {i['id']: i for i in items}
 
-            local_items = []
-            with open('_data/photos.json', 'r', encoding='utf=8') as f:
-                local_items = json.load(f)
+        local_items = []
+        with open(LOCAL_PHOTOS_JSON, 'r', encoding='utf=8') as f:
+            local_items = json.load(f)
 
-            for local_item in local_items:
-                new_metadata = {
-                    "description": local_item.get("description")
+        for local_item in local_items:
+            new_metadata = {
+                "description": local_item.get("description"),
+                "name": local_item.get("name")
+            }
+            file_id = local_item["id"]
+            update_file(service, item_id_to_item[file_id], new_metadata, True)
+
+    if args.download_files:
+        for index, item in enumerate(items[:1]):
+            url = item['webContentLink']
+            r = requests.get(url)
+
+            r.raise_for_status()
+
+            if r.status_code == 200:
+                dest = "images/photos_fullsize/{id}.{fileExtension}".format(**item)
+                with open(dest, 'wb') as f:
+                    f.write(r.content)
+                    print("{0}/{1} Downloaded {2} to {3}".format(index + 1, len(items), item['name'], dest))
+
+    if args.json_to_markdown:
+        local_items = []
+        with open(LOCAL_PHOTOS_JSON, 'r', encoding='utf=8') as f:
+            local_items = json.load(f)
+
+        content = ""
+        mdFile = MdUtils(file_name='Seattle Draft',title='Temporary Moments')
+        for item in local_items:
+            photo = "![{0}]({1})".format(item['id'], "images/photos_thumbnail/{id}.{fileExtension}".format(**item))
+            description = html2markdown.convert(item.get("description", ""))
+
+            content += "{0}\n\n{1}\n\n".format(photo, description)
+
+        mdFile.write(content)
+        mdFile.create_md_file()
+
+    if args.markdown_to_json:
+        # markdown_to_json
+        # Parses Markdown file to get photo descriptions in Html
+        # Then, updates photo.json
+
+        id_to_metadata = {}
+        with open(LOCAL_PHOTOS_MARKDOWN, 'r', encoding='utf=8') as f:
+            markdown_split = f.read().split("---")
+
+            # Markdown Syntax
+            # ![id](source) description
+            pattern = "[\s]*!\[(?P<id>[a-zA-Z0-9_.-]*)\]\(.*\)[ \s]+(?P<description>[\S\n\t\v ]*)"
+
+            for index, item in enumerate(markdown_split):
+                m = re.match(pattern, item)
+                item_id = m.group("id")
+                item_description = m.group("description").strip()
+                html = markdown.markdown(item_description)
+
+                id_to_metadata[item_id] = {
+                    "description": html,
+                    "name": "{:04d}".format(index)
                 }
-                file_id = local_item["id"]
-                update_file(service, item_id_to_item[file_id], new_metadata, True)
 
-        if args.download_files:
-            for index, item in enumerate(items[:1]):
-                url = item['webContentLink']
-                r = requests.get(url)
+        local_items = []
+        with open(LOCAL_PHOTOS_JSON, 'r', encoding='utf=8') as f:
+            local_items = json.load(f)
 
-                r.raise_for_status()
+        local_items = [a for a in local_items if a['id'] in id_to_metadata]
+        for item in local_items:
+            item.update(id_to_metadata[item['id']])
 
-                if r.status_code == 200:
-                    dest = "images/photos_fullsize/{id}.{fileExtension}".format(**item)
-                    with open(dest, 'wb') as f:
-                        f.write(r.content)
-                        print("{0}/{1} Downloaded {2} to {3}".format(index + 1, len(items), item['name'], dest))
+        with open(LOCAL_PHOTOS_JSON, 'w', encoding='utf=8') as f:
+            json.dump(local_items, f, ensure_ascii=False, indent=4)
 
-        if args.to_markdown:
-            local_items = []
-            with open('_data/photos.json', 'r', encoding='utf=8') as f:
-                local_items = json.load(f)
-
-            content = ""
-            mdFile = MdUtils(file_name='Seattle Draft',title='Temporary Moments')
-            for item in local_items:
-                photo = "![{0}]({1})".format(item['id'], "images/photos_thumbnail/{id}.{fileExtension}".format(**item))
-                description = html2markdown.convert(item.get("description", ""))
-
-                content += "{0}\n\n{1}\n\n".format(photo, description)
-
-            mdFile.write(content)
-            mdFile.create_md_file()
+    if args.markdown_to_html:
+        markdown.markdownFromFile(
+            input=LOCAL_PHOTOS_MARKDOWN,
+            output='output.html',
+            encoding='utf8',
+        )
 
 if __name__ == '__main__':
     main()
