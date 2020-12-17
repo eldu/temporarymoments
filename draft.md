@@ -506,7 +506,7 @@ We are a proud Black woman owned business \#poc \#queerrun \#blm
 ![14AH7oYv1J-g4obtK-UpLtp--RUmOkgJX](images/photos_thumbnail/14AH7oYv1J-g4obtK-UpLtp--RUmOkgJX.jpg)  
 
 In a celebration of Black voices, the titles in this mural are recommendations of books by Black authors to add to your reading list. _So You Want to Talk About Race_ by Ijeoma Oluo guides readers of all races to have honest conversations about race and racism. I would also recommend _You Belong_ by Sebene Selassie and _The Mindful Athlete_ by George Mumford.  
-[@thesetemporarymoments](https://www.instagram.com/thesetemporarymoments/)
+[@thesetemporarymoments](https://www.instagram.com/thesetemporarymoments/) [@seattleacademy](https://www.instagram.com/seattleacademy/)
 
 ---
 ![1LbSUQlS6-pJVHf3N-9mqcAsT5XzcHxWW](images/photos_thumbnail/1LbSUQlS6-pJVHf3N-9mqcAsT5XzcHxWW.jpg)  
