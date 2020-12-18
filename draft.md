@@ -495,6 +495,8 @@ Health care workers are experiencing rising levels of burnout, anxiety, and stre
 
 Stay safe love. Love is the way.
 
+[@theriveterco](https://www.instagram.com/theriveterco/)
+
 ---
 ![1qW_Ng2EseuDhHrO3WVGBTZXTitYbKhE2](images/photos_thumbnail/1qW_Ng2EseuDhHrO3WVGBTZXTitYbKhE2.jpg)  
 
@@ -520,10 +522,14 @@ The cries for justice must be louder than the attempts to suppress them.
 
 Together, we are strong.
 
+[@baileehiatt](https://www.instagram.com/baileehiatt/) [@creativityinacan](https://www.instagram.com/creativityinacan/) [@urbanartworks](https://www.instagram.com/urbanartworks/) [@paint_2_change](https://www.instagram.com/paint_2_change/)
+
 ---
 ![1JjZt-yAk-5_TpWpH15AMDy7oNHUI_D84](images/photos_thumbnail/1JjZt-yAk-5_TpWpH15AMDy7oNHUI_D84.jpg)  
 
 Opt for love.
+
+[@baileehiatt](https://www.instagram.com/baileehiatt/) [@creativityinacan](https://www.instagram.com/creativityinacan/) [@urbanartworks](https://www.instagram.com/urbanartworks/) [@paint_2_change](https://www.instagram.com/paint_2_change/)
 
 ---
 ![1EiciJoH8PSLEN83j0xCz5GTfPEA_WCPi](images/photos_thumbnail/1EiciJoH8PSLEN83j0xCz5GTfPEA_WCPi.jpg)  
@@ -577,6 +583,8 @@ The surrounding border are names of Black victims of police brutality that have 
 ![1AgLIdjnSYlflHBwVCxtSn0iUQL-DRma4](images/photos_thumbnail/1AgLIdjnSYlflHBwVCxtSn0iUQL-DRma4.jpg)  
 
 Painted are notable Black female scientists whose work have revolutionized our lives. Katherine Johnson calculated trajectories for the first moon landing. Dr. Gladys West developed models which led to the invention of GPS. Dr. Jane C. Wright revolutionized techniques for chemotherapy.  
+
+[@hhcoworks](https://www.instagram.com/hhcoworks/)
   
 ---
 ![1d1PRrVwHVkd0r1o0w0rKX5mpbnxIyRvX](images/photos_thumbnail/1d1PRrVwHVkd0r1o0w0rKX5mpbnxIyRvX.jpg)  
@@ -607,12 +615,14 @@ By August 2020, the STOP AAPI HATE Reporting Center received over 2,500 reports 
 
 Back in March 2020, Jade Garden, a dim sum restaurant in the International District of Seattle, boarded up their windows with plywood after a window was vandalized. It remained open for takeout and delivery. Local artists painted murals to help attract customers and beautify the exterior.
 
+[@jadegardensea](https://www.instagram.com/jadegardensea/)
+
 ---
 ![1HGQQz4y1uw0EVRBeouAxp6BhIicOmizW](images/photos_thumbnail/1HGQQz4y1uw0EVRBeouAxp6BhIicOmizW.jpg)  
 
 Restaurants and other businesses around Seattle looked for help in beautifying their boarded up storefronts. Keoke Silvano, photographer, has been helping to organize other efforts to create mural art for these temporary canvases.  
   
-Located at Jade Garden Restaurant
+[@jadegardensea](https://www.instagram.com/jadegardensea/)
 
 ---
 ![1MKvXiFyaH9DQGZJ2RRSnzKrDU3PjHyXN](images/photos_thumbnail/1MKvXiFyaH9DQGZJ2RRSnzKrDU3PjHyXN.jpg)  
@@ -625,6 +635,8 @@ Located at Jade Garden Restaurant
 ![10mumOWGwHbu5MoQivUJesRh90gYPUjiK](images/photos_thumbnail/10mumOWGwHbu5MoQivUJesRh90gYPUjiK.jpg)  
 
 Standing in solidarity with Black Lives Matter.
+
+[@jadegardensea](https://www.instagram.com/jadegardensea/)
 
 ---
 ![1Wpr8TFtANiu2opXobjYIArahO9z9Rc4J](images/photos_thumbnail/1Wpr8TFtANiu2opXobjYIArahO9z9Rc4J.jpg)  

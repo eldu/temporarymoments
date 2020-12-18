@@ -1848,7 +1848,7 @@ var photos = [
   {
     "id": "1irFVwfmt5bQQwwSQ66ZLP3RlQhCGbwOg",
     "name": "0075",
-    "description": "<p>Stay safe love. Love is the way.</p>",
+    "description": "<p>Stay safe love. Love is the way.</p>\n<p><a href=\"https://www.instagram.com/theriveterco/\">@theriveterco</a></p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,
@@ -1937,7 +1937,7 @@ var photos = [
   {
     "id": "1_BVxVR3WF9gniusOWiN6atjPXnNlFpZv",
     "name": "0079",
-    "description": "<p>Together, we are strong.</p>",
+    "description": "<p>Together, we are strong.</p>\n<p><a href=\"https://www.instagram.com/baileehiatt/\">@baileehiatt</a> <a href=\"https://www.instagram.com/creativityinacan/\">@creativityinacan</a> <a href=\"https://www.instagram.com/urbanartworks/\">@urbanartworks</a> <a href=\"https://www.instagram.com/paint_2_change/\">@paint_2_change</a></p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,
@@ -1963,7 +1963,7 @@ var photos = [
   {
     "id": "1JjZt-yAk-5_TpWpH15AMDy7oNHUI_D84",
     "name": "0080",
-    "description": "<p>Opt for love.</p>",
+    "description": "<p>Opt for love.</p>\n<p><a href=\"https://www.instagram.com/baileehiatt/\">@baileehiatt</a> <a href=\"https://www.instagram.com/creativityinacan/\">@creativityinacan</a> <a href=\"https://www.instagram.com/urbanartworks/\">@urbanartworks</a> <a href=\"https://www.instagram.com/paint_2_change/\">@paint_2_change</a></p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,
@@ -2197,7 +2197,7 @@ var photos = [
   {
     "id": "1AgLIdjnSYlflHBwVCxtSn0iUQL-DRma4",
     "name": "0089",
-    "description": "<p>Painted are notable Black female scientists whose work have revolutionized our lives. Katherine Johnson calculated trajectories for the first moon landing. Dr. Gladys West developed models which led to the invention of GPS. Dr. Jane C. Wright revolutionized techniques for chemotherapy.</p>",
+    "description": "<p>Painted are notable Black female scientists whose work have revolutionized our lives. Katherine Johnson calculated trajectories for the first moon landing. Dr. Gladys West developed models which led to the invention of GPS. Dr. Jane C. Wright revolutionized techniques for chemotherapy.  </p>\n<p><a href=\"https://www.instagram.com/hhcoworks/\">@hhcoworks</a></p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,
@@ -2327,7 +2327,7 @@ var photos = [
   {
     "id": "1EY7W5tXZR_k-VTsrUIk_CECqaOoxNbHf",
     "name": "0094",
-    "description": "<p>Back in March 2020, Jade Garden, a dim sum restaurant in the International District of Seattle, boarded up their windows with plywood after a window was vandalized. It remained open for takeout and delivery. Local artists painted murals to help attract customers and beautify the exterior.</p>",
+    "description": "<p>Back in March 2020, Jade Garden, a dim sum restaurant in the International District of Seattle, boarded up their windows with plywood after a window was vandalized. It remained open for takeout and delivery. Local artists painted murals to help attract customers and beautify the exterior.</p>\n<p><a href=\"https://www.instagram.com/jadegardensea/\">@jadegardensea</a></p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,
@@ -2353,7 +2353,7 @@ var photos = [
   {
     "id": "1HGQQz4y1uw0EVRBeouAxp6BhIicOmizW",
     "name": "0095",
-    "description": "<p>Restaurants and other businesses around Seattle looked for help in beautifying their boarded up storefronts. Keoke Silvano, photographer, has been helping to organize other efforts to create mural art for these temporary canvases.  </p>\n<p>Located at Jade Garden Restaurant</p>",
+    "description": "<p>Restaurants and other businesses around Seattle looked for help in beautifying their boarded up storefronts. Keoke Silvano, photographer, has been helping to organize other efforts to create mural art for these temporary canvases.  </p>\n<p><a href=\"https://www.instagram.com/jadegardensea/\">@jadegardensea</a></p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,
@@ -2405,7 +2405,7 @@ var photos = [
   {
     "id": "10mumOWGwHbu5MoQivUJesRh90gYPUjiK",
     "name": "0097",
-    "description": "<p>Standing in solidarity with Black Lives Matter.</p>",
+    "description": "<p>Standing in solidarity with Black Lives Matter.</p>\n<p><a href=\"https://www.instagram.com/jadegardensea/\">@jadegardensea</a></p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,
