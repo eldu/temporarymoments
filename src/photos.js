@@ -466,7 +466,7 @@ var photos = [
   {
     "id": "1T7opZ2jPNgHm57ovlC_hKYwEhprg78WC",
     "name": "0019",
-    "description": "<p>This is temporary.<br />\n<a href=\"https://www.instagram.com/b_line_dot/\">@b_line_dot</a></p>",
+    "description": "<p>This is temporary.</p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,
@@ -492,7 +492,7 @@ var photos = [
   {
     "id": "1jE7jRQTfpOWWjkZNByXe4tew-94KD2WA",
     "name": "0020",
-    "description": "<blockquote>\n<p><em>My wife's the reason anything gets done<br />\nShe nudges me towards promise by degrees<br />\nShe is a perfect symphony of one<br />\nOur son is her most beautiful reprise.<br />\nWe chase the melodies that seem to find us<br />\nUntil they're finished songs and start to play<br />\nWhen senseless acts of tragedy remind us<br />\nThat nothing here is promised, not one day.<br />\nThis show is proof that history remembers<br />\nWe lived through times when hate and fear seemed stronger;<br />\nWe rise and fall and light from dying embers, remembrances that hope and love last longer<br />\nAnd love is love is love is love is love is love is love is love cannot be killed or swept aside. \nI sing Vanessa's symphony, Eliza tells her story<br />\nNow fill the world with music, love and pride.</em>  </p>\n<p>Love Sonnet by Lin-Manuel Miranda at the Tony Awards 2016 as he accepted his award for Best Score with Hamilton.<br />\n<a href=\"https://www.instagram.com/b_line_dot/\">@b_line_dot</a></p>\n</blockquote>",
+    "description": "<blockquote>\n<p><em>My wife's the reason anything gets done<br />\nShe nudges me towards promise by degrees<br />\nShe is a perfect symphony of one<br />\nOur son is her most beautiful reprise.<br />\nWe chase the melodies that seem to find us<br />\nUntil they're finished songs and start to play<br />\nWhen senseless acts of tragedy remind us<br />\nThat nothing here is promised, not one day.<br />\nThis show is proof that history remembers<br />\nWe lived through times when hate and fear seemed stronger;<br />\nWe rise and fall and light from dying embers, remembrances that hope and love last longer<br />\nAnd love is love is love is love is love is love is love is love cannot be killed or swept aside. \nI sing Vanessa's symphony, Eliza tells her story<br />\nNow fill the world with music, love and pride.</em>  </p>\n<p>Love Sonnet by Lin-Manuel Miranda at the Tony Awards 2016 as he accepted his award for Best Score with Hamilton.</p>\n</blockquote>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,

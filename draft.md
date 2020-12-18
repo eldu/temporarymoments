@@ -120,7 +120,6 @@ Emergency Medical Services (EMS), 911, health care workers, and other public saf
 ![1T7opZ2jPNgHm57ovlC_hKYwEhprg78WC](images/photos_thumbnail/1T7opZ2jPNgHm57ovlC_hKYwEhprg78WC.jpg) 
 
 This is temporary.  
-[@b\_line\_dot](https://www.instagram.com/b_line_dot/)
 
 ---
 ![1jE7jRQTfpOWWjkZNByXe4tew-94KD2WA](images/photos_thumbnail/1jE7jRQTfpOWWjkZNByXe4tew-94KD2WA.jpg) 
@@ -141,7 +140,6 @@ This is temporary.
 > Now fill the world with music, love and pride._  
 >   
 > Love Sonnet by Lin-Manuel Miranda at the Tony Awards 2016 as he accepted his award for Best Score with Hamilton.  
-[@b\_line\_dot](https://www.instagram.com/b_line_dot/)
 
 ---
 ![15m3OVabMbOZEuBUmcizg0cG3EQJSwImX](images/photos_thumbnail/15m3OVabMbOZEuBUmcizg0cG3EQJSwImX.jpg)  
