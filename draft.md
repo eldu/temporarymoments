@@ -637,7 +637,7 @@ Graffiti reflected on the Lincoln Reservoir at Cal Anderson Park during CHAZ/CHO
 
 "Human rights start with recognizing the importance of every individual. Peace starts from fostering friendship with others." quote by Daisaku Ikeda, a peacebuilding, Buddihist philosopher, educator, author, and poet.  
   
-[@therealartsurgeon](https://www.instagram.com/therealartsurgeon/)
+[@therealartsurgeon](https://www.instagram.com/therealartsurgeon/) [@ejakcity](https://www.instagram.com/Ejakcity/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 

@@ -1770,7 +1770,7 @@ var photos = [
   {
     "id": "1W50C3ySc-MXyFaNQZWQUGfprSepe65r1",
     "name": "0072",
-    "description": "<p>\"Human rights start with recognizing the importance of every individual. Peace starts from fostering friendship with others.\" quote by Daisaku Ikeda, a peacebuilding, Buddihist philosopher, educator, author, and poet.  </p>\n<p><a href=\"https://www.instagram.com/therealartsurgeon/\">@therealartsurgeon</a></p>\n<p><sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub></p>",
+    "description": "<p>\"Human rights start with recognizing the importance of every individual. Peace starts from fostering friendship with others.\" quote by Daisaku Ikeda, a peacebuilding, Buddihist philosopher, educator, author, and poet.  </p>\n<p><a href=\"https://www.instagram.com/therealartsurgeon/\">@therealartsurgeon</a> <a href=\"https://www.instagram.com/Ejakcity/\">@ejakcity</a></p>\n<p><sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub></p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,
