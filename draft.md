@@ -219,7 +219,7 @@ A series of non sequi-doors.
   
 In our emergent reality, complexity and uncertainty are ever flowing. With this in mind, everyone has agency and can respond with agility.  
 
-[@erinelisabeth](https://www.instagram.com/erinelisabeth/) [@erinoostra](https://www.instagram.com/erinoostra/) [@pioneersquare](https://www.instagram.com/pioneersquare/)
+[@erinoostra](https://www.instagram.com/erinoostra/) [@pioneersquare](https://www.instagram.com/pioneersquare/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
