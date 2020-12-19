@@ -247,6 +247,10 @@ def main():
         with open(LOCAL_PHOTOS_JSON, 'w', encoding='utf=8') as f:
             json.dump(local_items, f, ensure_ascii=False, indent=4)
 
+        # Saves photo data as js variable to be read by js
+        with open('src/photos.js', 'w', encoding='utf-8') as f:
+            f.write("var photos = {0}; export {{ photos }};".format(json.dumps(local_items, ensure_ascii=False, indent=2)))
+
     if args.markdown_to_html:
         markdown.markdownFromFile(
             input=LOCAL_PHOTOS_MARKDOWN,

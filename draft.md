@@ -12,7 +12,7 @@ COVID-19 most commonly spreads between people who are in close contact with one 
 (middle) We cannot wait to see you again!  
 (right) Stand six steps back and promise you love me  
   
-[@oddfellowscafe](https://www.instagram.com/oddfellowscafe/?hl=en) [@stacy\_milrany\_art](https://www.instagram.com/stacy_milrany_art/)
+[@oddfellowscafe](https://www.instagram.com/oddfellowscafe/?hl=en) [@stacy\_milrany\_art](https://www.instagram.com/stacy_milrany_art/) [@ben_busy](https://www.instagram.com/ben_busy/) [@sadgrrlz](https://www.instagram.com/sadgrrlz/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
@@ -56,7 +56,7 @@ With increased time at home, people picked up new and old hobbies to spend their
 ![1aYLAtkdxjdRCLqyKc25Mw60AZEK18x_q](images/photos_thumbnail/1aYLAtkdxjdRCLqyKc25Mw60AZEK18x_q.jpg)  
 Hair salons and barbers closed due to the pandemic prompting some at-home quarantine haircuts. People are also experimenting with growing a mustache, shaving their head, cutting bangs, dyeing their hair, or growing a man bun.
 
-[@emersonsalon](https://www.instagram.com/emersonsalon/) [@seattlecoffeeworks](https://www.instagram.com/seattlecoffeeworks/)
+[@paint_2_change](https://www.instagram.com/paint_2_change/) [@emersonsalon](https://www.instagram.com/emersonsalon/) [@seattlecoffeeworks](https://www.instagram.com/seattlecoffeeworks/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
@@ -191,6 +191,8 @@ This is temporary.
 ![15m3OVabMbOZEuBUmcizg0cG3EQJSwImX](images/photos_thumbnail/15m3OVabMbOZEuBUmcizg0cG3EQJSwImX.jpg)  
 One World: Together at Home was a series of benefit concerts artists held over Instagram Live in their own home. It was held in support of the World Health Organization and to promote social distancing while gathering together for a live chill concert. \#TogetherAtHome
 
+[@yesitstara](https://www.instagram.com/yesitstara/)
+
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
@@ -200,7 +202,7 @@ Independent book stores closed their doors as COVID-19 forced non-essential busi
   
 "A book is a dream that you hold in your hands" — Neil Gaiman  
 
-[@purebonaventure](https://www.instagram.com/purebonaventure/)
+[@purebonaventure](https://www.instagram.com/purebonaventure/) [@arundelbooks](https://www.instagram.com/arundelbooks/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
@@ -344,6 +346,8 @@ Spring is usually a time to see flowers in bloom. This year, flower festivals an
   
 Just north of Seattle, the 300 acres of beautiful tulips in Skagit Valley attracts more than a million visitors every April. Although the Skagit Valley Tulip Festival was cancelled this year, there are virtual tours and other ways to support farmers. 
 
+[@cinnaholicseattle](https://www.instagram.com/cinnaholicseattle/) [@capitolcider](https://www.instagram.com/capitolcider/)
+
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
@@ -351,7 +355,7 @@ Just north of Seattle, the 300 acres of beautiful tulips in Skagit Valley attrac
 
 _Leave a word, take a turn._ Markers were set aside for participation. [24 hours later, it was filled with voices from the community.](https://www.instagram.com/p/CBcL7xTg3wd/?utm_source=ig_web_button_share_sheet)  
 
-[@hellafragile](https://www.instagram.com/hellafragile/) [@laurasullivancassidy](https://www.instagram.com/laurasullivancassidy/)
+[@hellafragile](https://www.instagram.com/hellafragile/) [@laurasullivancassidy](https://www.instagram.com/laurasullivancassidy/) [@lostlakecafe](https://www.instagram.com/lostlakecafe/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
