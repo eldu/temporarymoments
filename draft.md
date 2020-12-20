@@ -447,7 +447,7 @@ These protestors should be celebrated for their courage and forgiven their civil
 The victims of police brutality are marching in this poster. Their stories are memorialized and continue to be shared. We will march forward on their behalf.  
   
 The [print](http://firstandfifteenth.net/blm1.pdf) is available online to download and distribute.   
-[Instagram Post](https://www.instagram.com/p/CBBpM28jNw3/?utm_source=ig_embed) by [@steveespopowers](https://www.instagram.com/steveespopowers/?hl=en)
+[Instagram Post](https://www.instagram.com/p/CBBpM28jNw3/?utm_source=ig_embed) by [@steveespopowers](https://www.instagram.com/steveespopowers/?hl=en). Printed and posted by [@onegrandgallery](https://www.instagram.com/onegrandgallery/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
