@@ -790,7 +790,7 @@ var photos = [
   {
     "id": "1AhavLwJRU-qjcUziV2mHNrOrVDFP5QMz",
     "name": "0032",
-    "description": "<p>Keep going. Keep growing.<br />\n<a href=\"https://www.instagram.com/sweetlikedezi/\">@sweetlikedezi</a></p>\n<p><sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub></p>",
+    "description": "<p>Keep going. Keep growing.  </p>\n<p>Despina Vapheas <a href=\"https://www.instagram.com/sweetlikedezi/\">@sweetlikedezi</a></p>\n<p><sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub></p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,
@@ -816,7 +816,7 @@ var photos = [
   {
     "id": "1oKI5URiLh38o5XkKe3NCj2GXGfQd2iEx",
     "name": "0033",
-    "description": "<p>Life is tough, but so are you.<br />\n<a href=\"https://www.instagram.com/sweetlikedezi/\">@sweetlikedezi</a></p>\n<p><sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub></p>",
+    "description": "<p>Life is tough, but so are you.  </p>\n<p>Despina Vapheas <a href=\"https://www.instagram.com/sweetlikedezi/\">@sweetlikedezi</a></p>\n<p><sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub></p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,
@@ -842,7 +842,7 @@ var photos = [
   {
     "id": "1qxSDWIPWamMo2-3u-lrk1TkHF1yuRWMj",
     "name": "0034",
-    "description": "<p>Nothing changes if nothing changes.<br />\n<a href=\"https://www.instagram.com/sweetlikedezi/\">@sweetlikedezi</a></p>\n<p><sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub></p>",
+    "description": "<p>Nothing changes if nothing changes.  </p>\n<p>Despina Vapheas <a href=\"https://www.instagram.com/sweetlikedezi/\">@sweetlikedezi</a></p>\n<p><sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub></p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,
@@ -868,7 +868,7 @@ var photos = [
   {
     "id": "18qAUrx2Njs_q8T71JLLfLRrfuuPdO4-l",
     "name": "0035",
-    "description": "<p>Keep going. Keep growing. Life is tough, but so are you. Nothing changes if nothing changes.\n<a href=\"https://www.instagram.com/sweetlikedezi/\">@sweetlikedezi</a></p>\n<p><sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub></p>",
+    "description": "<p>Keep going. Keep growing. Life is tough, but so are you. Nothing changes if nothing changes.</p>\n<p>Despina Vapheas <a href=\"https://www.instagram.com/sweetlikedezi/\">@sweetlikedezi</a></p>\n<p><sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub></p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,
@@ -894,7 +894,7 @@ var photos = [
   {
     "id": "1bbsJ4Q0d3_V37NAg_wTJZvVHK_g2ifXF",
     "name": "0036",
-    "description": "<p>Spring is usually a time to see flowers in bloom. This year, flower festivals and other large public gatherings across the globe were cancelled to limit the spread of COVID-19. In Japan, over a hundred thousand flowers were cut after people continued to visit the fields.  </p>\n<p>Just north of Seattle, the 300 acres of beautiful tulips in Skagit Valley attracts more than a million visitors every April. Although the Skagit Valley Tulip Festival was cancelled this year, there are virtual tours and other ways to support farmers. </p>\n<p><a href=\"https://www.instagram.com/cinnaholicseattle/\">@cinnaholicseattle</a> <a href=\"https://www.instagram.com/capitolcider/\">@capitolcider</a></p>\n<p><sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub></p>",
+    "description": "<p>Spring is usually a time to see flowers in bloom. This year, flower festivals and other large public gatherings across the globe were cancelled to limit the spread of COVID-19. In Japan, over a hundred thousand flowers were cut after people continued to visit the fields.  </p>\n<p>Just north of Seattle, the 300 acres of beautiful tulips in Skagit Valley attracts more than a million visitors every April. Although the Skagit Valley Tulip Festival was cancelled this year, there are virtual tours and other ways to support farmers. </p>\n<p><a href=\"https://www.instagram.com/josephinerice.flower/\">@josephinerice.flower</a> <a href=\"https://www.instagram.com/cinnaholicseattle/\">@cinnaholicseattle</a> <a href=\"https://www.instagram.com/capitolcider/\">@capitolcider</a></p>\n<p><sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub></p>",
     "fileExtension": "jpg",
     "imageMediaMetadata": {
       "width": 2560,

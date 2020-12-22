@@ -315,28 +315,32 @@ Cats love boxes of all shapes and sizes. Cardboard boxes are comforting and prov
 ![1AhavLwJRU-qjcUziV2mHNrOrVDFP5QMz](images/photos_thumbnail/1AhavLwJRU-qjcUziV2mHNrOrVDFP5QMz.jpg) 
 
 Keep going. Keep growing.  
-[@sweetlikedezi](https://www.instagram.com/sweetlikedezi/)
+
+Despina Vapheas [@sweetlikedezi](https://www.instagram.com/sweetlikedezi/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
 ![1oKI5URiLh38o5XkKe3NCj2GXGfQd2iEx](images/photos_thumbnail/1oKI5URiLh38o5XkKe3NCj2GXGfQd2iEx.jpg)
 Life is tough, but so are you.  
-[@sweetlikedezi](https://www.instagram.com/sweetlikedezi/)
+
+Despina Vapheas [@sweetlikedezi](https://www.instagram.com/sweetlikedezi/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
 ![1qxSDWIPWamMo2-3u-lrk1TkHF1yuRWMj](images/photos_thumbnail/1qxSDWIPWamMo2-3u-lrk1TkHF1yuRWMj.jpg)
 Nothing changes if nothing changes.  
-[@sweetlikedezi](https://www.instagram.com/sweetlikedezi/)
+
+Despina Vapheas [@sweetlikedezi](https://www.instagram.com/sweetlikedezi/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
 ![18qAUrx2Njs_q8T71JLLfLRrfuuPdO4-l](images/photos_thumbnail/18qAUrx2Njs_q8T71JLLfLRrfuuPdO4-l.jpg)
 Keep going. Keep growing. Life is tough, but so are you. Nothing changes if nothing changes.
-[@sweetlikedezi](https://www.instagram.com/sweetlikedezi/)
+
+Despina Vapheas [@sweetlikedezi](https://www.instagram.com/sweetlikedezi/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
@@ -346,7 +350,7 @@ Spring is usually a time to see flowers in bloom. This year, flower festivals an
   
 Just north of Seattle, the 300 acres of beautiful tulips in Skagit Valley attracts more than a million visitors every April. Although the Skagit Valley Tulip Festival was cancelled this year, there are virtual tours and other ways to support farmers. 
 
-[@cinnaholicseattle](https://www.instagram.com/cinnaholicseattle/) [@capitolcider](https://www.instagram.com/capitolcider/)
+[@josephinerice.flower](https://www.instagram.com/josephinerice.flower/) [@cinnaholicseattle](https://www.instagram.com/cinnaholicseattle/) [@capitolcider](https://www.instagram.com/capitolcider/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
