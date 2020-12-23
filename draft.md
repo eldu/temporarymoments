@@ -543,11 +543,11 @@ This is the memorial made for George Floyd and others who have died in subsequen
 ---
 ![1z6mEWRUkwHyxYEKFbslo8NSwSbAAXNmN](images/photos_thumbnail/1z6mEWRUkwHyxYEKFbslo8NSwSbAAXNmN.jpg) 
 
-Eltana, a Montreal-style wood-fired bake cafe, was in the heart of CHOP. It is located at the intersection of 12th and Pine directly across the East Precinct of the Seattle Police Department.  
+Eltana, a Montreal-style wood-fired bagel cafe, was in the heart of CHOP. It is located at the intersection of 12th and Pine directly across the East Precinct of the Seattle Police Department.  
   
 They supported CHOP as a step towards systemic change. In the morning, they'd bring out bagels to the No Cop Co-Op, a free food distribution station set up inside of CHOP. They gave half a dozen free bagels to customers if they donated $25+ to any racial justice organization or dined at a Black-owned restaurant in the city with a receipt. Anyone who walked in and said that they're hungry for justice got a free bagel and spread.  
 
-[@eltanabagels](https://www.instagram.com/eltanabagels/)
+[@emmajanelson](https://www.instagram.com/emmajanelson/) [@eltanabagels](https://www.instagram.com/eltanabagels/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
