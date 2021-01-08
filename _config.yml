@@ -4,6 +4,9 @@ author: Ellen Duong and Angela Schwartz
 # Serving
 port: 8000
 
+sass:
+  style: compressed
+
 exclude:
   - .idea/
   - CONTRIBUTING.md
