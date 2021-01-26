@@ -1,0 +1,23 @@
+# Facebook
+- id: ''
+  href: 'https://www.facebook.com/sharer/sharer.php?u=https://www.temporarymoments.com/'
+  title: 'Facebook'
+  fa-icon: 'fab fa-facebook-f'
+  width: 600
+  height: 300
+
+# Twitter
+- id: ''
+  href: 'https://twitter.com/home?status=https://www.temporarymoments.com/'
+  title: 'Twitter'
+  fa-icon: 'fab fa-twitter'
+  width: 600
+  height: 254
+
+# LinkedIn
+- id: ''
+  href: 'https://www.linkedin.com/shareArticle?mini=true&url=https://www.temporarymoments.com/&title=&summary=&source='
+  title: 'LinkedIn'
+  fa-icon: 'fab fa-linkedin-in'
+  width: 600
+  height: 473
