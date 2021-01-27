@@ -50,8 +50,8 @@
         </section>
     <section class="wrapper style1 align-left">
         {%- assign sortedPhotos = site.data.photos | sort: "name" -%}
-        {%- for photo in sortedPhotos limit: 10 -%}
-        <section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in" id="first">
+        {%- for photo in sortedPhotos limit: 2 -%}
+        <section class="spotlight style7 orient-left content-align-left image-position-center onscroll-image-fade-in">
             <div class="content">
                 <p>{{ photo.description }}</p>
             </div>
