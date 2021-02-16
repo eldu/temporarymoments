@@ -1,6 +1,8 @@
 venv/
 token.pickle
 credentials.json
+scripts/token.pickle
+scripts/credentials.json
 
 # Intellij
 .idea/

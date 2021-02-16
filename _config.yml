@@ -24,3 +24,4 @@ exclude:
   - update_photos.py
   - venv/
   - webpack.config.js
+  - scripts/

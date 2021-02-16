@@ -13,6 +13,7 @@ import html2markdown
 import markdown
 from mdutils.mdutils import MdUtils
 import re
+import warnings
 
 # If modifying scopes, delete the file token.pickle.
 READONLY = 'https://www.googleapis.com/auth/drive.metadata.readonly'
@@ -40,8 +41,8 @@ def get_service(credentials_file="credentials.json", scopes=None):
     # The file token.pickle stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
     # time.
-    if os.path.exists('../token.pickle'):
-        with open('../token.pickle', 'rb') as token:
+    if os.path.exists('token.pickle'):
+        with open('token.pickle', 'rb') as token:
             creds = pickle.load(token)
     # If there are no (valid) credentials available, let the user log in.
     if not creds or not creds.valid:
@@ -51,7 +52,7 @@ def get_service(credentials_file="credentials.json", scopes=None):
             flow = InstalledAppFlow.from_client_secrets_file(credentials_file, scopes)
             creds = flow.run_local_server(port=0)
         # Save the credentials for the next run
-        with open('../token.pickle', 'wb') as token:
+        with open('token.pickle', 'wb') as token:
             pickle.dump(creds, token)
 
     service = build('drive', 'v3', credentials=creds)
@@ -125,18 +126,25 @@ def get_folders(service, parent_id):
         dict: map of folder name to folder id
     """
     param = {
-        "q": "mimeType = 'application/vnd.google-apps.folder' and {0} in parents".format(parent_id),
+        "q": "mimeType = 'application/vnd.google-apps.folder' and '{0}' in parents".format(parent_id),
         "fields": "nextPageToken,files({0})".format(FILE_FIELDS),
         "orderBy": "name"
     }
 
     files = retrieve_files(service, param)
+    folder_names = [f["name"] for f in files]
+
+    if len(folder_names) != len(set(folder_names)):
+        # TODO: Maybe raise an error instead of a warning?
+        warnings.warn("FOLDER NAMES ARE NOT UNIQUE - "
+                      "Please go to the Google Drive to make all the folder names unique.", UserWarning)
+
     folders = {f["name"]: f["id"] for f in files}
 
     return folders
 
 def main():
-    service = get_service("../credentials.json", [READONLY])
+    service = get_service("credentials.json", [READONLY])
     print(get_folders(service, TEMPORARYMOMENTS_FOLDER_ID))
 
 if __name__ == '__main__':
