@@ -1,0 +1,112 @@
+---
+title: Albums
+---
+<!DOCTYPE HTML>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="{{ 'assets/css/main_story.css' | absolute_url }}" />
+    <link rel="stylesheet" href="{{ 'assets/css/noscript_story.css' | absolute_url }}" />
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/favicon/apple-touch-icon.png' | absolute_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/favicon/favicon-32x32.png' | absolute_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/favicon/favicon-16x16.png' | absolute_url }}">
+    <link rel="manifest" href="{{ 'assets/favicon/site.webmanifest' | absolute_url }}">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-M5PZ0VP99T"></script>
+    <script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'G-M5PZ0VP99T');
+		</script>
+</head>
+<body class="is-preload">
+<!-- Header -->
+<header id="header" class="alt">
+    <div class="logo"><a href="{{ 'index.html' | absolute_url }}">{{ site.title }} <span>{{ page.title }}</span></a></div>
+    <a href="#menu">Menu</a>
+</header>
+
+<!-- Nav -->
+<nav id="menu">
+    <ul class="links">
+        {% for item in site.data.navigation %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        {% endfor %}
+    </ul>
+</nav>
+
+<!-- Wrapper -->
+<div id="wrapper" class="divided">
+    <!-- One -->
+    <section class="banner style2 invert orient-left content-align-left image-position-right onload-image-fade-in onload-content-fade-right">
+        <div class="content">
+            <h1>{{ page.title }}</h1>
+            <p class="major"></p>
+        </div>
+        <div class="image">
+<!--            <img src="/images/header.jpg" alt="" />-->
+        </div>
+    </section>
+
+    <!-- Six -->
+    <section class="wrapper style2 align-center">
+        <div class="inner">
+            <div class="items style3 medium onscroll-fade-in">
+                {% for post in site.posts %}
+                <section>
+                    <a href="{{ post.url }}"><span class="image fit"><img src="{{ post.thumbnail }}" alt="{{ post.title }}" /></span></a>
+                    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+                    <p>{{ post.excerpt | truncatewords: 50, "..." }}</p>
+                    <ul class="actions stacked">
+                        <li><a href="{{ post.url }}" class="button small">Read More</a></li>
+                    </ul>
+                </section>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="wrapper style1 align-center">
+        <div class="inner">
+            <ul class="icons">
+                {% if site.data.social_media %}
+                {% assign sm = site.data.social_media %}
+                {% for entry in sm %}
+                {% assign key = entry | first %}
+                {% if sm[key].id %}
+                <li><a href="{{ sm[key].href }}{{ sm[key].id }}" class="icon style2 {{ sm[key].fa-icon }}"><span class="label">{{ sm[key].title }}</span></a></li>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+            </ul>
+            <p>&copy; Ellen Duong. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+        </div>
+    </footer>
+
+</div>
+
+<!-- Scripts -->
+<script src="{{ 'assets/js/jquery.min.js' | absolute_url }}"></script>
+<script src="{{ 'assets/js/jquery.scrollex.min.js' | absolute_url }}"></script>
+<script src="{{ 'assets/js/jquery.scrolly.min.js' | absolute_url }}"></script>
+<script src="{{ 'assets/js/skel.min.js' | absolute_url }}"></script>
+<script src="{{ 'assets/js/browser.min.js' | absolute_url }}"></script>
+<script src="{{ 'assets/js/breakpoints.min.js' | absolute_url }}"></script>
+<script src="{{ 'assets/js/util_story.js' | absolute_url }}"></script>
+<script src="{{ 'assets/js/main_story.js' | absolute_url }}"></script>
+
+</body>
+</html>
