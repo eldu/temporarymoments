@@ -115,7 +115,7 @@ def update_file(service, file, new_metadata, new_revision):
         print('An error occurred: %s' % error)
         return None
 
-def get_folders(service, parent_id):
+def get_folders(service, parent_id=TEMPORARYMOMENTS_FOLDER_ID):
     """ Get all of the folders underneath the parent folder
 
     Args:
@@ -126,7 +126,9 @@ def get_folders(service, parent_id):
         dict: map of folder name to folder id
     """
     param = {
-        "q": "mimeType = 'application/vnd.google-apps.folder' and '{0}' in parents".format(parent_id),
+        "q": "mimeType = 'application/vnd.google-apps.folder' and '{0}' in parents and trashed = false".format(
+            parent_id
+        ),
         "fields": "nextPageToken,files({0})".format(FILE_FIELDS),
         "orderBy": "name"
     }
@@ -136,9 +138,10 @@ def get_folders(service, parent_id):
 
     if len(folder_names) != len(set(folder_names)):
         # TODO: Maybe raise an error instead of a warning?
-        warnings.warn("FOLDER NAMES ARE NOT UNIQUE - "
+        warnings.warn("WARNING: FOLDER NAMES ARE NOT UNIQUE - "
                       "Please go to the Google Drive to make all the folder names unique.", UserWarning)
 
+    # TODO: Maybe make the folder name to lowercase/uppercase, be more flexible on casing
     folders = {f["name"]: f["id"] for f in files}
 
     return folders
