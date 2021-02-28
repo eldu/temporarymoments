@@ -2,5 +2,10 @@
     <div class="content">
         <p>{{ include.content }}</p>
     </div>
-    {{ include.image }}
+    {% if include.image_id %}
+    <figure class="image">
+        <p><img src="/images/photos_thumbnail/{{ include.image_id }}.jpg" alt="{{ include.image_id }}"/></p>
+        <figcaption>{{ site.data.data_dictionary[include.image_id]["description"] }}</figcaption>
+    </figure>
+    {% endif %}
 </section>
