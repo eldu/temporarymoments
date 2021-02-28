@@ -24,14 +24,9 @@ def main():
         files = temporary_moments_utils.retrieve_files(service, param)
 
         # Saves photo data as json to be read by Jekyll
-        with open('data.json', 'w', encoding='utf-8') as f:
+        files = {f['id']: f for f in files}
+        with open('../_data/data_dictionary.json', 'w', encoding='utf-8') as f:
             json.dump(files, f, ensure_ascii=False, indent=4)
-
-        # TODO: Stop generating js file for data
-        # Saves photo data as js variable to be read by js
-        with open('data.js', 'w', encoding='utf-8') as f:
-            f.write("var photos = {0}; export {{ photos }};".format(json.dumps(files, ensure_ascii=False, indent=2)))
-
     else:
         raise FileNotFoundError("{0} folder not found.".format(args.folder))
 
