@@ -39,7 +39,7 @@
         <section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
             <div class="content">
                 <h1>{{ page.title }}</h1>
-                <p class="major">{{ page.hook }}</p>
+                <p class="major">{{ page.excerpt }}</p>
                 <ul class="actions stacked">
                     <li><a href="#first" class="button big wide smooth-scroll-middle">Get Started</a></li>
                 </ul>
@@ -48,22 +48,13 @@
                 <img src="{{ page.image | absolute_url}}" alt="" />
             </div>
         </section>
-    <section class="wrapper style1 align-left">
-        {%- assign sortedPhotos = site.data.photos | sort: "name" -%}
-        {%- for photo in sortedPhotos limit: 2 -%}
-        <section class="spotlight style7 orient-left content-align-left image-position-center onscroll-image-fade-in">
-            <div class="content">
-                <p>{{ photo.description }}</p>
-            </div>
-            <div class="image">
-                <img src="/images/photos_thumbnail/{{ photo.id }}.{{ photo.fileExtension }}" alt="{{ photo.id }}" />
-            </div>
-        </section>
-        {%- endfor -%}
-    </section>
-
-        <p>{{ content }}</p>
     </div>
+
+    <section class="wrapper style2 align-left" id="first">
+        <div class="inner">
+            {{ content }}
+        </div>
+    </section>
 
         <!-- Footer -->
         <footer class="wrapper style1 align-center">

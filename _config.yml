@@ -4,6 +4,7 @@ author: Ellen Duong and Angela Schwartz
 # Serving
 port: 8000
 
+excerpt_separator: <!-- more -->
 sass:
   style: compressed
 
