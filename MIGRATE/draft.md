@@ -552,7 +552,7 @@ They supported CHOP as a step towards systemic change. In the morning, they'd br
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1ory_-49eBIfUg92SeNv3MI6jG8Hcam_V](images/photos_thumbnail/1ory_-49eBIfUg92SeNv3MI6jG8Hcam_V.jpg)
+![1ory_-49eBIfUg92SeNv3MI6jG8Hcam_V](MIGRATE/images/photos_thumbnail/1ory_-49eBIfUg92SeNv3MI6jG8Hcam_V.jpg)
 
 Local artists collaborated to create a Black Lives Matter Street Mural on East Pine Street between 10th and 11th.   
   
@@ -561,13 +561,13 @@ Local artists collaborated to create a Black Lives Matter Street Mural on East P
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1a61UCew5Ws6vd9fWjNuIiacdZLq4QY-O](images/photos_thumbnail/1a61UCew5Ws6vd9fWjNuIiacdZLq4QY-O.jpg)  
+![1a61UCew5Ws6vd9fWjNuIiacdZLq4QY-O](MIGRATE/images/photos_thumbnail/1a61UCew5Ws6vd9fWjNuIiacdZLq4QY-O.jpg)  
 Also check out this [overhead view of the Black Lives Matter street mural.](https://kuow-prod.imgix.net/store/d3d358b1b11dd700b503562ec436094e.jpg?ixlib=rails-2.1.4&amp;fit=crop&amp;crop=edges&amp;w=1280)  
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1-3t13b713Yg9kkmSEc7PF7wS3ob1571P](images/photos_thumbnail/1-3t13b713Yg9kkmSEc7PF7wS3ob1571P.jpg)
+![1-3t13b713Yg9kkmSEc7PF7wS3ob1571P](MIGRATE/images/photos_thumbnail/1-3t13b713Yg9kkmSEc7PF7wS3ob1571P.jpg)
 
 Art Vault is a local non-profit organization that provides free art materials to BIPOC creatives.  
   
@@ -576,12 +576,12 @@ Art Vault is a local non-profit organization that provides free art materials to
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1PGtm7E5T7eVaZ8Bmcsv7wiRtkEDyYcPf](images/photos_thumbnail/1PGtm7E5T7eVaZ8Bmcsv7wiRtkEDyYcPf.jpg)
+![1PGtm7E5T7eVaZ8Bmcsv7wiRtkEDyYcPf](MIGRATE/images/photos_thumbnail/1PGtm7E5T7eVaZ8Bmcsv7wiRtkEDyYcPf.jpg)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1ekHxn2ul9A0BlA1UPEoUDp8Gr5HrE0ZS](images/photos_thumbnail/1ekHxn2ul9A0BlA1UPEoUDp8Gr5HrE0ZS.jpg) 
+![1ekHxn2ul9A0BlA1UPEoUDp8Gr5HrE0ZS](MIGRATE/images/photos_thumbnail/1ekHxn2ul9A0BlA1UPEoUDp8Gr5HrE0ZS.jpg) 
 
 >Black culture deserves to be celebrated and what better way to do that than through game. For The Culture was created to test you on current knowledge but will also allow you to discover facets of the culture you've never encountered before.  — For the Culture
 
@@ -590,31 +590,31 @@ Art Vault is a local non-profit organization that provides free art materials to
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1cM2Kel-dPTXmd-mLi0KPz8sxXE61P76N](images/photos_thumbnail/1cM2Kel-dPTXmd-mLi0KPz8sxXE61P76N.jpg)  
+![1cM2Kel-dPTXmd-mLi0KPz8sxXE61P76N](MIGRATE/images/photos_thumbnail/1cM2Kel-dPTXmd-mLi0KPz8sxXE61P76N.jpg)  
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1FDIBxF0x3Eqih_BqHkBkO20_hbZO1f9P](images/photos_thumbnail/1FDIBxF0x3Eqih_BqHkBkO20_hbZO1f9P.jpg)  
+![1FDIBxF0x3Eqih_BqHkBkO20_hbZO1f9P](MIGRATE/images/photos_thumbnail/1FDIBxF0x3Eqih_BqHkBkO20_hbZO1f9P.jpg)  
 [@thecurlynugget](https://www.instagram.com/thecurlynugget/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1Wu1JL_DqIxAs2f3JcnYDRA59UT6_R9b2](images/photos_thumbnail/1Wu1JL_DqIxAs2f3JcnYDRA59UT6_R9b2.jpg) 
+![1Wu1JL_DqIxAs2f3JcnYDRA59UT6_R9b2](MIGRATE/images/photos_thumbnail/1Wu1JL_DqIxAs2f3JcnYDRA59UT6_R9b2.jpg) 
   
 [@perrypaints](https://www.instagram.com/perrypaints/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1nZDcxEx1tjvm-kLBEz-GNe0Id5N7oL4B](images/photos_thumbnail/1nZDcxEx1tjvm-kLBEz-GNe0Id5N7oL4B.jpg)  
+![1nZDcxEx1tjvm-kLBEz-GNe0Id5N7oL4B](MIGRATE/images/photos_thumbnail/1nZDcxEx1tjvm-kLBEz-GNe0Id5N7oL4B.jpg)  
 "You are imperfect, you are wired for struggle, but you are worth of love and belonging." — Brené Brown, author of _Daring Greatly_.
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1Pem37TXh1R2aA7stcQBbMPGcEyB9NWpB](images/photos_thumbnail/1Pem37TXh1R2aA7stcQBbMPGcEyB9NWpB.jpg)
+![1Pem37TXh1R2aA7stcQBbMPGcEyB9NWpB](MIGRATE/images/photos_thumbnail/1Pem37TXh1R2aA7stcQBbMPGcEyB9NWpB.jpg)
 
 The homeless are one of the most susceptible and vulnerable to the pandemic. A high percentage of the homelessness population are older adults and/or have pre-existing conditions. They have significant barriers to self-care and hygiene. Crowded conditions also ease the spread of airborne infections. Many of the recommendations to prevent COVID are difficult for the homeless to execute.  
   
@@ -623,21 +623,21 @@ Homeless shelters are grappling with COVID safety as winter approaches. The home
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1EO3WHo23HxAguNqkgVmojjScz8-LaPg_](images/photos_thumbnail/1EO3WHo23HxAguNqkgVmojjScz8-LaPg_.jpg)  
+![1EO3WHo23HxAguNqkgVmojjScz8-LaPg_](MIGRATE/images/photos_thumbnail/1EO3WHo23HxAguNqkgVmojjScz8-LaPg_.jpg)  
 
 In this city, we believe: Black Lives Matter, women's rights are human rights, no human is illegal, science is real, water is life, in religious freedom, love is love, kindness is everything.
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---  
-![13vyNLoF7ZktyGXtaYAgc0jpNwuZVTedB](images/photos_thumbnail/13vyNLoF7ZktyGXtaYAgc0jpNwuZVTedB.jpg)  
+![13vyNLoF7ZktyGXtaYAgc0jpNwuZVTedB](MIGRATE/images/photos_thumbnail/13vyNLoF7ZktyGXtaYAgc0jpNwuZVTedB.jpg)  
 
 Graffiti reflected on the Lincoln Reservoir at Cal Anderson Park during CHAZ/CHOP.
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---  
-![1W50C3ySc-MXyFaNQZWQUGfprSepe65r1](images/photos_thumbnail/1W50C3ySc-MXyFaNQZWQUGfprSepe65r1.jpg)  
+![1W50C3ySc-MXyFaNQZWQUGfprSepe65r1](MIGRATE/images/photos_thumbnail/1W50C3ySc-MXyFaNQZWQUGfprSepe65r1.jpg)  
 
 "Human rights start with recognizing the importance of every individual. Peace starts from fostering friendship with others." quote by Daisaku Ikeda, a peacebuilding, Buddihist philosopher, educator, author, and poet.  
   
@@ -646,14 +646,14 @@ Graffiti reflected on the Lincoln Reservoir at Cal Anderson Park during CHAZ/CHO
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1K50kXkIKIneyO4O8SIgitbNYinEYKafT](images/photos_thumbnail/1K50kXkIKIneyO4O8SIgitbNYinEYKafT.jpg)  
+![1K50kXkIKIneyO4O8SIgitbNYinEYKafT](MIGRATE/images/photos_thumbnail/1K50kXkIKIneyO4O8SIgitbNYinEYKafT.jpg)  
 
 Various artists came together to create this wall of love and solidarity in these trying times. Located at 2nd and Yesler Way.
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1xIP9g5uq_WJsA4-1-TL2jmVofK90uq2X](images/photos_thumbnail/1xIP9g5uq_WJsA4-1-TL2jmVofK90uq2X.jpg)  
+![1xIP9g5uq_WJsA4-1-TL2jmVofK90uq2X](MIGRATE/images/photos_thumbnail/1xIP9g5uq_WJsA4-1-TL2jmVofK90uq2X.jpg)  
 
 The phrase, "to carry the weight of the world on one's shoulders," is derived from the Greek Myth wherein Altas, a Titan, bore the weight of the heavens on his shoulders.   
   
@@ -662,7 +662,7 @@ Health care workers are experiencing rising levels of burnout, anxiety, and stre
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1irFVwfmt5bQQwwSQ66ZLP3RlQhCGbwOg](images/photos_thumbnail/1irFVwfmt5bQQwwSQ66ZLP3RlQhCGbwOg.jpg)  
+![1irFVwfmt5bQQwwSQ66ZLP3RlQhCGbwOg](MIGRATE/images/photos_thumbnail/1irFVwfmt5bQQwwSQ66ZLP3RlQhCGbwOg.jpg)  
 
 Stay safe love. Love is the way.
 
@@ -671,7 +671,7 @@ Stay safe love. Love is the way.
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1qW_Ng2EseuDhHrO3WVGBTZXTitYbKhE2](images/photos_thumbnail/1qW_Ng2EseuDhHrO3WVGBTZXTitYbKhE2.jpg)  
+![1qW_Ng2EseuDhHrO3WVGBTZXTitYbKhE2](MIGRATE/images/photos_thumbnail/1qW_Ng2EseuDhHrO3WVGBTZXTitYbKhE2.jpg)  
 
 We are a proud Black woman owned business \#poc \#queerrun \#blm
 
@@ -680,7 +680,7 @@ We are a proud Black woman owned business \#poc \#queerrun \#blm
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![14AH7oYv1J-g4obtK-UpLtp--RUmOkgJX](images/photos_thumbnail/14AH7oYv1J-g4obtK-UpLtp--RUmOkgJX.jpg)  
+![14AH7oYv1J-g4obtK-UpLtp--RUmOkgJX](MIGRATE/images/photos_thumbnail/14AH7oYv1J-g4obtK-UpLtp--RUmOkgJX.jpg)  
 
 In a celebration of Black voices, the titles in this mural are recommendations of books by Black authors to add to your reading list. _So You Want to Talk About Race_ by Ijeoma Oluo guides readers of all races to have honest conversations about race and racism. I would also recommend _You Belong_ by Sebene Selassie and _The Mindful Athlete_ by George Mumford.  
 
@@ -689,7 +689,7 @@ In a celebration of Black voices, the titles in this mural are recommendations o
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1LbSUQlS6-pJVHf3N-9mqcAsT5XzcHxWW](images/photos_thumbnail/1LbSUQlS6-pJVHf3N-9mqcAsT5XzcHxWW.jpg)  
+![1LbSUQlS6-pJVHf3N-9mqcAsT5XzcHxWW](MIGRATE/images/photos_thumbnail/1LbSUQlS6-pJVHf3N-9mqcAsT5XzcHxWW.jpg)  
 
 The cries for justice must be louder than the attempts to suppress them.  
   
@@ -698,7 +698,7 @@ The cries for justice must be louder than the attempts to suppress them.
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1_BVxVR3WF9gniusOWiN6atjPXnNlFpZv](images/photos_thumbnail/1_BVxVR3WF9gniusOWiN6atjPXnNlFpZv.jpg)  
+![1_BVxVR3WF9gniusOWiN6atjPXnNlFpZv](MIGRATE/images/photos_thumbnail/1_BVxVR3WF9gniusOWiN6atjPXnNlFpZv.jpg)  
 
 Together, we are strong.
 
@@ -707,7 +707,7 @@ Together, we are strong.
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1JjZt-yAk-5_TpWpH15AMDy7oNHUI_D84](images/photos_thumbnail/1JjZt-yAk-5_TpWpH15AMDy7oNHUI_D84.jpg)  
+![1JjZt-yAk-5_TpWpH15AMDy7oNHUI_D84](MIGRATE/images/photos_thumbnail/1JjZt-yAk-5_TpWpH15AMDy7oNHUI_D84.jpg)  
 
 Opt for love.
 
@@ -716,42 +716,42 @@ Opt for love.
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1EiciJoH8PSLEN83j0xCz5GTfPEA_WCPi](images/photos_thumbnail/1EiciJoH8PSLEN83j0xCz5GTfPEA_WCPi.jpg)  
+![1EiciJoH8PSLEN83j0xCz5GTfPEA_WCPi](MIGRATE/images/photos_thumbnail/1EiciJoH8PSLEN83j0xCz5GTfPEA_WCPi.jpg)  
 
 Protect our elders. Elders and the immunocompromised are at higher risk for getting severely ill from COVID-19.  
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1MLBwcLDzll74f1LjaNxiWCdXokUujmGy](images/photos_thumbnail/1MLBwcLDzll74f1LjaNxiWCdXokUujmGy.jpg)  
+![1MLBwcLDzll74f1LjaNxiWCdXokUujmGy](MIGRATE/images/photos_thumbnail/1MLBwcLDzll74f1LjaNxiWCdXokUujmGy.jpg)  
 Black Lives Matter  
 None of us are free until all of us are free
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1JBaDzogHqGnvLRNBzGHuZo7MW2lH2crw](images/photos_thumbnail/1JBaDzogHqGnvLRNBzGHuZo7MW2lH2crw.jpg)  
+![1JBaDzogHqGnvLRNBzGHuZo7MW2lH2crw](MIGRATE/images/photos_thumbnail/1JBaDzogHqGnvLRNBzGHuZo7MW2lH2crw.jpg)  
 
 "It always seems impossible until it's done" — Nelson Mandela
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1Hu2qPWYViE-l-Fr5f1ivlBAhyH3zJRvk](images/photos_thumbnail/1Hu2qPWYViE-l-Fr5f1ivlBAhyH3zJRvk.jpg)  
+![1Hu2qPWYViE-l-Fr5f1ivlBAhyH3zJRvk](MIGRATE/images/photos_thumbnail/1Hu2qPWYViE-l-Fr5f1ivlBAhyH3zJRvk.jpg)  
 
 "Tomorrow's world is yours to build" — Yuri Kochiyama
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1NnsaBRb_Z7gQvI39Fn0oIBZee87UFMoK](images/photos_thumbnail/1NnsaBRb_Z7gQvI39Fn0oIBZee87UFMoK.jpg)  
+![1NnsaBRb_Z7gQvI39Fn0oIBZee87UFMoK](MIGRATE/images/photos_thumbnail/1NnsaBRb_Z7gQvI39Fn0oIBZee87UFMoK.jpg)  
 
 "Anyway I don't think we can rely on governments, regardless of who is in power, to do the work that only mass movements can do." — Angela Y. Davis. She is a political activist, educator, and author who advocates for gender equity, prison reform, and alliances across color lines.
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1Yf_EsOs9BBr7IED8tFQf2zIzDViCe0GM](images/photos_thumbnail/1Yf_EsOs9BBr7IED8tFQf2zIzDViCe0GM.jpg)  
+![1Yf_EsOs9BBr7IED8tFQf2zIzDViCe0GM](MIGRATE/images/photos_thumbnail/1Yf_EsOs9BBr7IED8tFQf2zIzDViCe0GM.jpg)  
 
 Listen to [Unwritten Rules by skoodupcam](https://www.tiktok.com/foryou?lang=en#/@skoodupcam/video/6831990586891930886)  
 
@@ -762,7 +762,7 @@ Listen to [Unwritten Rules by skoodupcam](https://www.tiktok.com/foryou?lang=en#
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1WatXCzWljnuMKGaeWPocn8TijRqdNIEC](images/photos_thumbnail/1WatXCzWljnuMKGaeWPocn8TijRqdNIEC.jpg)  
+![1WatXCzWljnuMKGaeWPocn8TijRqdNIEC](MIGRATE/images/photos_thumbnail/1WatXCzWljnuMKGaeWPocn8TijRqdNIEC.jpg)  
 
 >  "Let nothing dim the light the shines from within" — Maya Angelou
 
@@ -771,7 +771,7 @@ Listen to [Unwritten Rules by skoodupcam](https://www.tiktok.com/foryou?lang=en#
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1QaKOWWIRvdrSILxahV22kaqlVXX60Af4](images/photos_thumbnail/1QaKOWWIRvdrSILxahV22kaqlVXX60Af4.jpg)  
+![1QaKOWWIRvdrSILxahV22kaqlVXX60Af4](MIGRATE/images/photos_thumbnail/1QaKOWWIRvdrSILxahV22kaqlVXX60Af4.jpg)  
 
 "Hands up, don't shoot" is a slogan and gesture (hands in the air) that originated after the shooting of Michael Brown in Ferguson, Missouri on August 9, 2014.   
   
@@ -780,7 +780,7 @@ The surrounding border are names of Black victims of police brutality that have 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1AgLIdjnSYlflHBwVCxtSn0iUQL-DRma4](images/photos_thumbnail/1AgLIdjnSYlflHBwVCxtSn0iUQL-DRma4.jpg)  
+![1AgLIdjnSYlflHBwVCxtSn0iUQL-DRma4](MIGRATE/images/photos_thumbnail/1AgLIdjnSYlflHBwVCxtSn0iUQL-DRma4.jpg)  
 
 Painted are notable Black female scientists whose work have revolutionized our lives. Katherine Johnson calculated trajectories for the first moon landing. Dr. Gladys West developed models which led to the invention of GPS. Dr. Jane C. Wright revolutionized techniques for chemotherapy.  
 
@@ -789,7 +789,7 @@ Painted are notable Black female scientists whose work have revolutionized our l
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
   
 ---
-![1d1PRrVwHVkd0r1o0w0rKX5mpbnxIyRvX](images/photos_thumbnail/1d1PRrVwHVkd0r1o0w0rKX5mpbnxIyRvX.jpg)  
+![1d1PRrVwHVkd0r1o0w0rKX5mpbnxIyRvX](MIGRATE/images/photos_thumbnail/1d1PRrVwHVkd0r1o0w0rKX5mpbnxIyRvX.jpg)  
 
 "Love can not be broken," an affirmation and reminder that we are loved and are capable of love.  
   
@@ -798,21 +798,21 @@ Painted are notable Black female scientists whose work have revolutionized our l
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1LR3xJAnagEEhAXJ2YbEiAx3sw8YqXECw](images/photos_thumbnail/1LR3xJAnagEEhAXJ2YbEiAx3sw8YqXECw.jpg)  
+![1LR3xJAnagEEhAXJ2YbEiAx3sw8YqXECw](MIGRATE/images/photos_thumbnail/1LR3xJAnagEEhAXJ2YbEiAx3sw8YqXECw.jpg)  
 
 Fly away with me.
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1ibhT15YzaIboF4IGVxtcew6r9M3HZjSK](images/photos_thumbnail/1ibhT15YzaIboF4IGVxtcew6r9M3HZjSK.jpg)  
+![1ibhT15YzaIboF4IGVxtcew6r9M3HZjSK](MIGRATE/images/photos_thumbnail/1ibhT15YzaIboF4IGVxtcew6r9M3HZjSK.jpg)  
 
 Amid the pandemic, panic and fear have manifested in deplorable acts of bigotry, racism and xenophobia. Dismantling racism is our collective effort. We must demand real reform and justice.
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1HgyBXJnz6wh-hCoCtEI-LqT29y6z5WOy](images/photos_thumbnail/1HgyBXJnz6wh-hCoCtEI-LqT29y6z5WOy.jpg)  
+![1HgyBXJnz6wh-hCoCtEI-LqT29y6z5WOy](MIGRATE/images/photos_thumbnail/1HgyBXJnz6wh-hCoCtEI-LqT29y6z5WOy.jpg)  
 
 Referring to COVID-19 as the China virus, Wuhan virus, or the like, promotes othering and stigmatization. The increase in racist rhetoric coincides with increases in racial attacks, violent bullying, threats, racial abuse, and discrimination. It has exacerbated social stigma, national insecurity, and fear of foreigners. COVID-19 is a public health crisis not a racial matter.   
   
@@ -821,7 +821,7 @@ By August 2020, the STOP AAPI HATE Reporting Center received over 2,500 reports 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1EY7W5tXZR_k-VTsrUIk_CECqaOoxNbHf](images/photos_thumbnail/1EY7W5tXZR_k-VTsrUIk_CECqaOoxNbHf.jpg)  
+![1EY7W5tXZR_k-VTsrUIk_CECqaOoxNbHf](MIGRATE/images/photos_thumbnail/1EY7W5tXZR_k-VTsrUIk_CECqaOoxNbHf.jpg)  
 
 Back in March 2020, Jade Garden, a dim sum restaurant in the International District of Seattle, boarded up their windows with plywood after a window was vandalized. It remained open for takeout and delivery. Local artists painted murals to help attract customers and beautify the exterior.
 
@@ -830,7 +830,7 @@ Back in March 2020, Jade Garden, a dim sum restaurant in the International Distr
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1HGQQz4y1uw0EVRBeouAxp6BhIicOmizW](images/photos_thumbnail/1HGQQz4y1uw0EVRBeouAxp6BhIicOmizW.jpg)  
+![1HGQQz4y1uw0EVRBeouAxp6BhIicOmizW](MIGRATE/images/photos_thumbnail/1HGQQz4y1uw0EVRBeouAxp6BhIicOmizW.jpg)  
 
 Restaurants and other businesses around Seattle looked for help in beautifying their boarded up storefronts. Keoke Silvano, photographer, has been helping to organize other efforts to create mural art for these temporary canvases.  
   
@@ -839,7 +839,7 @@ Restaurants and other businesses around Seattle looked for help in beautifying t
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1MKvXiFyaH9DQGZJ2RRSnzKrDU3PjHyXN](images/photos_thumbnail/1MKvXiFyaH9DQGZJ2RRSnzKrDU3PjHyXN.jpg)  
+![1MKvXiFyaH9DQGZJ2RRSnzKrDU3PjHyXN](MIGRATE/images/photos_thumbnail/1MKvXiFyaH9DQGZJ2RRSnzKrDU3PjHyXN.jpg)  
 
 [The Asian American Response to Black Lives Matter Is Part of a Long, Complicated History](https://time.com/5851792/asian-americans-black-solidarity-history/)  
   
@@ -848,7 +848,7 @@ Restaurants and other businesses around Seattle looked for help in beautifying t
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![10mumOWGwHbu5MoQivUJesRh90gYPUjiK](images/photos_thumbnail/10mumOWGwHbu5MoQivUJesRh90gYPUjiK.jpg)  
+![10mumOWGwHbu5MoQivUJesRh90gYPUjiK](MIGRATE/images/photos_thumbnail/10mumOWGwHbu5MoQivUJesRh90gYPUjiK.jpg)  
 
 Standing in solidarity with Black Lives Matter.
 
@@ -857,42 +857,42 @@ Standing in solidarity with Black Lives Matter.
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1Wpr8TFtANiu2opXobjYIArahO9z9Rc4J](images/photos_thumbnail/1Wpr8TFtANiu2opXobjYIArahO9z9Rc4J.jpg)  
+![1Wpr8TFtANiu2opXobjYIArahO9z9Rc4J](MIGRATE/images/photos_thumbnail/1Wpr8TFtANiu2opXobjYIArahO9z9Rc4J.jpg)  
 
 [@\_axsm](https://www.instagram.com/_axsm/)
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![10U9II8GhpgWAo0HbZnx39y3jTt0uTK6z](images/photos_thumbnail/10U9II8GhpgWAo0HbZnx39y3jTt0uTK6z.jpg)  
+![10U9II8GhpgWAo0HbZnx39y3jTt0uTK6z](MIGRATE/images/photos_thumbnail/10U9II8GhpgWAo0HbZnx39y3jTt0uTK6z.jpg)  
 
 Black Lives Matter translated into Chinese, Filipino, Thai, and Korean.
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1mRGS3taeAwh8XxvgJLIBSMv3pSD7i1Wx](images/photos_thumbnail/1mRGS3taeAwh8XxvgJLIBSMv3pSD7i1Wx.jpg)  
+![1mRGS3taeAwh8XxvgJLIBSMv3pSD7i1Wx](MIGRATE/images/photos_thumbnail/1mRGS3taeAwh8XxvgJLIBSMv3pSD7i1Wx.jpg)  
 
 Lokomaika'i: Always act with kindness
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1N_L6lwzUG_TY6DAL8ZwJ_PubSzaaQ4wh](images/photos_thumbnail/1N_L6lwzUG_TY6DAL8ZwJ_PubSzaaQ4wh.jpg)  
+![1N_L6lwzUG_TY6DAL8ZwJ_PubSzaaQ4wh](MIGRATE/images/photos_thumbnail/1N_L6lwzUG_TY6DAL8ZwJ_PubSzaaQ4wh.jpg)  
 
 Ohana is a Hawaiian term that means family.
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1KaHYZ1s1JD483Vmqp3VvcX8Zs7IELq-n](images/photos_thumbnail/1KaHYZ1s1JD483Vmqp3VvcX8Zs7IELq-n.jpg)  
+![1KaHYZ1s1JD483Vmqp3VvcX8Zs7IELq-n](MIGRATE/images/photos_thumbnail/1KaHYZ1s1JD483Vmqp3VvcX8Zs7IELq-n.jpg)  
 
 Portraits of generations
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1Sr4L2QS0Z4UqaR1spEnUiZTl-9GEuY3H](images/photos_thumbnail/1Sr4L2QS0Z4UqaR1spEnUiZTl-9GEuY3H.jpg)  
+![1Sr4L2QS0Z4UqaR1spEnUiZTl-9GEuY3H](MIGRATE/images/photos_thumbnail/1Sr4L2QS0Z4UqaR1spEnUiZTl-9GEuY3H.jpg)  
 
 Float on.  
 [@thechaoticaquatic](https://www.instagram.com/thechaoticaquatic/)   
@@ -900,7 +900,7 @@ Float on.
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1HlKCB0W9ineM9LpUU-UvwYTkaDNx2Vwp](images/photos_thumbnail/1HlKCB0W9ineM9LpUU-UvwYTkaDNx2Vwp.jpg)  
+![1HlKCB0W9ineM9LpUU-UvwYTkaDNx2Vwp](MIGRATE/images/photos_thumbnail/1HlKCB0W9ineM9LpUU-UvwYTkaDNx2Vwp.jpg)  
 
 New systems grow...  
 [@mari.shibuya](https://www.instagram.com/mari.shibuya/) [@vk.signs](https://www.instagram.com/vk.signs/) [@overallcreative](https://www.instagram.com/overallcreative/)
@@ -908,7 +908,7 @@ New systems grow...
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1VZuQAciX04inFNCyjh_EWbiqAtf2f-op](images/photos_thumbnail/1VZuQAciX04inFNCyjh_EWbiqAtf2f-op.jpg)  
+![1VZuQAciX04inFNCyjh_EWbiqAtf2f-op](MIGRATE/images/photos_thumbnail/1VZuQAciX04inFNCyjh_EWbiqAtf2f-op.jpg)  
 if we tend to them
 
 [@mari.shibuya](https://www.instagram.com/mari.shibuya/) [@vk.signs](https://www.instagram.com/vk.signs/) [@overallcreative](https://www.instagram.com/overallcreative/)
@@ -916,14 +916,14 @@ if we tend to them
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1zJWdMzpFKHXwLveFZCl6AnxDSHw4M2GI](images/photos_thumbnail/1zJWdMzpFKHXwLveFZCl6AnxDSHw4M2GI.jpg)  
+![1zJWdMzpFKHXwLveFZCl6AnxDSHw4M2GI](MIGRATE/images/photos_thumbnail/1zJWdMzpFKHXwLveFZCl6AnxDSHw4M2GI.jpg)  
 
 [@bokabokfriedchicken](https://www.instagram.com/bokabokfriedchicken/) [@therunawayseattle](https://www.instagram.com/therunawayseattle/)  
 
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![1lLxeNNdFqd99cPqEkYHpS0R-E_CFiFhW](images/photos_thumbnail/1lLxeNNdFqd99cPqEkYHpS0R-E_CFiFhW.jpg)  
+![1lLxeNNdFqd99cPqEkYHpS0R-E_CFiFhW](MIGRATE/images/photos_thumbnail/1lLxeNNdFqd99cPqEkYHpS0R-E_CFiFhW.jpg)  
 
 [Ten Percent Happier: Coronavirus Sanity Guide](https://www.tenpercent.com/coronavirussanityguide)  
   
@@ -935,7 +935,7 @@ May we all live with ease_
 <sub><sup>Photo: Temporary Moments / Ellen Duong and Angela Schwartz</sup></sub>
 
 ---
-![10zGGIk188cmA_ycJeaoL5A9DTtYxS-wb](images/photos_thumbnail/10zGGIk188cmA_ycJeaoL5A9DTtYxS-wb.jpg)  
+![10zGGIk188cmA_ycJeaoL5A9DTtYxS-wb](MIGRATE/images/photos_thumbnail/10zGGIk188cmA_ycJeaoL5A9DTtYxS-wb.jpg)  
 
 The year of 2020 has certainly been a lot to learn from. Into 2021 we go.
 

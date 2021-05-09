@@ -3,7 +3,7 @@ token.pickle
 credentials.json
 
 # Intellij
-.idea/
+../.idea/
 
 # Jekyll.gitignore
 _site/
